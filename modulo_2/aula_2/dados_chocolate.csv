@@ -1,0 +1,2531 @@
+fabricante,local_empresa,ano_revisado,origem,cacau_percent,num_ingredientes,classificacao
+5150,U.S.A.,2019,Tanzania,76,3,3.25
+5150,U.S.A.,2019,Dominican Republic,76,3,3.5
+5150,U.S.A.,2019,Madagascar,76,3,3.75
+5150,U.S.A.,2021,Fiji,68,3,3
+5150,U.S.A.,2021,Venezuela,72,3,3
+5150,U.S.A.,2021,Uganda,80,3,3.25
+5150,U.S.A.,2021,India,68,3,3.5
+A. Morin,France,2012,Bolivia,70,4,3.5
+A. Morin,France,2012,Peru,63,4,3.75
+A. Morin,France,2013,Panama,70,4,2.75
+A. Morin,France,2013,Colombia,70,4,2.75
+A. Morin,France,2013,Madagascar,70,4,3
+A. Morin,France,2013,Burma,70,4,3
+A. Morin,France,2013,Brazil,70,4,3.25
+A. Morin,France,2013,Papua New Guinea,70,4,3.25
+A. Morin,France,2013,Peru,70,4,3.25
+A. Morin,France,2013,Peru,70,4,3.5
+A. Morin,France,2013,Ecuador,70,4,3.75
+A. Morin,France,2013,Venezuela,70,4,4
+A. Morin,France,2013,Peru,63,3,4
+A. Morin,France,2014,Venezuela,70,4,2.75
+A. Morin,France,2014,Cuba,70,4,3.5
+A. Morin,France,2014,Venezuela,70,4,3.5
+A. Morin,France,2014,Venezuela,70,4,3.75
+A. Morin,France,2014,Peru,70,4,4
+A. Morin,France,2015,Togo,70,4,2.75
+A. Morin,France,2015,Togo,70,4,3
+A. Morin,France,2015,Togo,70,4,3.5
+A. Morin,France,2015,Peru,70,4,3.5
+A. Morin,France,2016,Sao Tome,63,4,3.75
+A. Morin,France,2018,Venezuela,70,4,3.5
+A. Morin,France,2018,Peru,63,4,3.75
+A. Morin,France,2021,Mexico,70,4,4
+Acalli,U.S.A.,2015,Peru,70,2,3.75
+Acalli,U.S.A.,2015,Peru,70,2,3.75
+Acalli,U.S.A.,2020,Mexico,74,2,3.25
+Acalli,U.S.A.,2020,Peru,70,2,3.5
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,60,3,2.75
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,80,3,3.25
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,88,3,3.5
+Adi aka Fijiana (Easy In Ltd),Fiji,2011,Fiji,72,3,3.5
+Aelan,Vanuatu,2019,Vanuatu,70,2,2.5
+Aelan,Vanuatu,2019,Vanuatu,70,2,2.75
+Aelan,Vanuatu,2019,Vanuatu,70,2,2.75
+Aelan,Vanuatu,2019,Vanuatu,70,2,3
+Aequare (Gianduja),Ecuador,2009,Ecuador,55,4,2.75
+Aequare (Gianduja),Ecuador,2009,Ecuador,70,4,3
+Ah Cacao,Mexico,2009,Mexico,70,3,3
+Akesson's (Pralus),U.K.,2010,Madagascar,75,4,2.75
+Akesson's (Pralus),U.K.,2010,Brazil,75,4,2.75
+Akesson's (Pralus),U.K.,2011,Indonesia,75,4,3.75
+Alain Ducasse,France,2013,Venezuela,75,5,2.5
+Alain Ducasse,France,2013,Peru,75,5,2.5
+Alain Ducasse,France,2014,Trinidad,65,6,2.75
+Alain Ducasse,France,2014,Vietnam,75,5,2.75
+Alain Ducasse,France,2014,Madagascar,75,5,3
+Alain Ducasse,France,2017,Mexico,75,6,3.5
+Alexandre,Netherlands,2017,Ecuador,70,3,3.5
+Alexandre,Netherlands,2017,Nicaragua,70,3,3.5
+Alexandre,Netherlands,2017,Tanzania,70,3,3.5
+Alexandre,Netherlands,2017,Vietnam,70,3,3.5
+Altus aka Cao Artisan,U.S.A.,2013,Venezuela,60,4,2.5
+Altus aka Cao Artisan,U.S.A.,2013,Dominican Republic,60,4,3
+Altus aka Cao Artisan,U.S.A.,2013,Bolivia,60,4,3
+Altus aka Cao Artisan,U.S.A.,2013,Bolivia,80,4,3.25
+Altus aka Cao Artisan,U.S.A.,2013,Peru,60,4,3.25
+Altus aka Cao Artisan,U.S.A.,2016,Bolivia,60,3,2.5
+Altus aka Cao Artisan,U.S.A.,2016,Peru,60,3,2.5
+Altus aka Cao Artisan,U.S.A.,2016,Nicaragua,60,3,2.75
+Altus aka Cao Artisan,U.S.A.,2016,Ecuador,60,3,2.75
+Altus aka Cao Artisan,U.S.A.,2016,Peru,60,3,3
+Altus aka Cao Artisan,U.S.A.,2018,Dominican Republic,70,3,3
+Amano,U.S.A.,2007,Venezuela,70,4,3
+Amano,U.S.A.,2007,Madagascar,70,4,3.5
+Amano,U.S.A.,2007,Venezuela,70,4,3.75
+Amano,U.S.A.,2008,Indonesia,70,4,2.75
+Amano,U.S.A.,2009,Venezuela,70,4,3
+Amano,U.S.A.,2010,Venezuela,70,4,3
+Amano,U.S.A.,2010,Dominican Republic,70,4,3.75
+Amano,U.S.A.,2010,Ecuador,70,4,4
+Amano,U.S.A.,2011,Papua New Guinea,70,4,4
+Amatller (Simon Coll),Spain,2009,Ecuador,70,2,2.75
+Amatller (Simon Coll),Spain,2009,Ecuador,85,2,2.75
+Amatller (Simon Coll),Spain,2009,Ghana,70,2,3
+Amatller (Simon Coll),Spain,2009,Ghana,85,2,3
+Amazing Cacao,Russia,2017,Peru,70,NA,3
+Amazing Cacao,Russia,2017,Peru,70,NA,3.5
+Amazona,Peru,2013,Peru,72,3,3.25
+Amazona,Peru,2013,Peru,73,3,3.5
+Ambrosia,Canada,2015,Belize,64,4,3
+Ambrosia,Canada,2015,Madagascar,66,2,3.25
+Ambrosia,Canada,2015,Dominican Republic,75,2,3.25
+Ambrosia,Canada,2015,Papua New Guinea,63,2,3.25
+Ambrosia,Canada,2015,Venezuela,70,2,3.25
+Ambrosia,Canada,2015,Peru,68,2,3.5
+Amedei,Italy,2006,Blend,66,4,3.75
+Amedei,Italy,2007,Ecuador,70,4,3
+Amedei,Italy,2007,Jamaica,70,4,3
+Amedei,Italy,2007,Grenada,70,4,3.5
+Amedei,Italy,2007,Trinidad,70,4,3.5
+Amedei,Italy,2007,Blend,63,4,3.5
+Amedei,Italy,2007,Venezuela,70,4,3.75
+Amedei,Italy,2012,Peru,70,4,3.75
+Amedei,Italy,2018,Madagascar,70,4,3
+Amedei,Italy,2018,Venezuela,70,4,3
+Amedei,Italy,2018,Venezuela,70,4,3
+Amedei,Italy,2018,Blend,75,4,3.5
+Amedei,Italy,2019,Blend,70,3,2.75
+AMMA,Brazil,2010,Brazil,85,4,2.75
+AMMA,Brazil,2010,Brazil,50,4,3.75
+AMMA,Brazil,2010,Brazil,75,4,3.75
+AMMA,Brazil,2010,Brazil,60,4,4
+AMMA,Brazil,2013,Brazil,75,4,3.25
+Anahata,U.S.A.,2014,Dominican Republic,75,2,3
+Animas,U.S.A.,2016,Bolivia,75,2,3.5
+Animas,U.S.A.,2021,Belize,75,2,3
+Animas,U.S.A.,2021,Guatemala,75,2,3.25
+Ara,France,2014,Mexico,72,3,2.5
+Ara,France,2014,Ecuador,75,3,2.75
+Ara,France,2014,Madagascar,75,3,3
+Ara,France,2014,Venezuela,75,3,3
+Arete,U.S.A.,2015,Brazil,75,2,2.75
+Arete,U.S.A.,2015,Guatemala,70,2,3.25
+Arete,U.S.A.,2015,Brazil,70,2,3.5
+Arete,U.S.A.,2015,Peru,68,2,3.5
+Arete,U.S.A.,2015,Dominican Republic,70,2,3.5
+Arete,U.S.A.,2015,Ecuador,75,3,3.5
+Arete,U.S.A.,2015,Ecuador,70,2,3.75
+Arete,U.S.A.,2015,Belize,70,2,3.75
+Arete,U.S.A.,2015,Nicaragua,70,2,4
+Arete,U.S.A.,2016,Ecuador,70,3,3.25
+Arete,U.S.A.,2016,Ecuador,70,3,3.25
+Arete,U.S.A.,2016,Fiji,70,2,3.25
+Arete,U.S.A.,2016,Vietnam,73,2,3.25
+Arete,U.S.A.,2016,Trinidad,70,2,3.5
+Arete,U.S.A.,2016,Vietnam,73,3,3.5
+Arete,U.S.A.,2016,Guatemala,70,2,3.5
+Arete,U.S.A.,2016,Honduras,70,2,3.5
+Arete,U.S.A.,2016,Tanzania,70,2,3.75
+Arete,U.S.A.,2016,Nicaragua,70,3,3.75
+Arete,U.S.A.,2016,Dominican Republic,70,2,3.75
+Arete,U.S.A.,2016,Costa Rica,70,2,4
+Arete,U.S.A.,2016,Peru,70,2,4
+Arete,U.S.A.,2017,India,70,2,3.5
+Arete,U.S.A.,2017,Madagascar,70,3,3.5
+Arete,U.S.A.,2017,Vietnam,73,3,3.5
+Arete,U.S.A.,2017,Peru,70,3,3.5
+Arete,U.S.A.,2017,Bolivia,70,2,4
+Arete,U.S.A.,2017,Haiti,70,2,4
+Arete,U.S.A.,2018,Trinidad,70,2,3
+Arete,U.S.A.,2018,Colombia,70,2,4
+Arete,U.S.A.,2019,India,70,3,3
+Arete,U.S.A.,2019,India,70,3,3.25
+Argencove,Nicaragua,2018,Nicaragua,70,2,3
+Argencove,Nicaragua,2018,Nicaragua,70,2,3.25
+Argencove,Nicaragua,2018,Nicaragua,70,2,3.5
+Argencove,Nicaragua,2018,Nicaragua,70,2,3.5
+Artisan du Chocolat,U.K.,2008,Congo,72,3,3.75
+Artisan du Chocolat,U.K.,2009,Brazil,72,3,1.75
+Artisan du Chocolat,U.K.,2009,Venezuela,75,3,2.5
+Artisan du Chocolat,U.K.,2009,Indonesia,72,3,2.75
+Artisan du Chocolat,U.K.,2009,Madagascar,80,3,3
+Artisan du Chocolat,U.K.,2009,Peru,75,3,3
+Artisan du Chocolat,U.K.,2009,Dominican Republic,72,3,3.25
+Artisan du Chocolat,U.K.,2010,Venezuela,100,NA,1.75
+Artisan du Chocolat,U.K.,2010,Costa Rica,72,3,3.25
+Artisan du Chocolat,U.K.,2010,Vietnam,72,3,3.25
+Artisan du Chocolat,U.K.,2010,Indonesia,72,3,3.5
+Artisan du Chocolat,U.K.,2010,Jamaica,72,3,3.75
+Artisan du Chocolat,U.K.,2011,Panama,72,3,2.75
+Artisan du Chocolat,U.K.,2011,Haiti,72,3,4
+Artisan du Chocolat,U.K.,2012,Colombia,72,3,3.75
+Artisan du Chocolat,U.K.,2013,Trinidad,72,3,3.25
+Artisan du Chocolat (Casa Luker),U.K.,2013,Colombia,72,4,2.75
+Aruntam,Italy,2021,India,72,4,3.25
+Aruntam,Italy,2021,Madagascar,72,4,3.25
+Aruntam,Italy,2021,Tanzania,72,4,3.5
+Askinosie,U.S.A.,2007,Mexico,75,2,2.5
+Askinosie,U.S.A.,2007,Ecuador,70,2,3
+Askinosie,U.S.A.,2009,Philippines,77,2,3.75
+Askinosie,U.S.A.,2011,Tanzania,72,2,3.75
+Askinosie,U.S.A.,2011,Honduras,70,2,3.75
+Askinosie,U.S.A.,2016,Tanzania,68,3,3.75
+Atypic,Australia,2019,Solomon Islands,70,4,3
+Auro,Philippines,2018,Philippines,77,4,2.75
+Auro,Philippines,2018,Philippines,70,3,3
+Auro,Philippines,2018,Philippines,70,3,3
+Auro,Philippines,2018,Philippines,70,3,3.5
+Avanaa,Canada,2021,Colombia,70,2,2.5
+Avanaa,Canada,2021,Dominican Republic,70,2,3
+Bahen & Co.,Australia,2012,Brazil,70,2,2.5
+Bahen & Co.,Australia,2012,Blend,70,2,2.5
+Bahen & Co.,Australia,2012,Madagascar,70,2,3
+Bahen & Co.,Australia,2015,Blend,80,2,3.25
+Bahen & Co.,Australia,2015,Papua New Guinea,70,2,3.5
+Baiani,Brazil,2018,Brazil,70,2,3
+Bakau,Peru,2015,Peru,70,3,2.75
+Bakau,Peru,2015,Peru,70,3,3.5
+Bankston,U.S.A.,2019,Belize,72,3,2.5
+Bankston,U.S.A.,2019,Uganda,82,3,2.75
+Bankston,U.S.A.,2019,Tanzania,72,3,3.25
+Bar Au Chocolat,U.S.A.,2012,Dominican Republic,70,2,3.25
+Bar Au Chocolat,U.S.A.,2012,Mexico,70,2,3.5
+Bar Au Chocolat,U.S.A.,2012,Madagascar,70,2,3.75
+Bar Au Chocolat,U.S.A.,2014,Peru,70,2,4
+Bar Au Chocolat,U.S.A.,2015,Brazil,70,2,3.5
+Bar Au Chocolat,U.S.A.,2017,Costa Rica,72,2,3.5
+Bar Au Chocolat,U.S.A.,2017,Trinidad,80,2,3.5
+Baravelli's,Wales,2012,Costa Rica,80,4,2.75
+Batch,U.S.A.,2016,Ecuador,65,3,3.25
+Batch,U.S.A.,2016,Dominican Republic,65,3,3.5
+Batch,U.S.A.,2016,Brazil,70,3,3.75
+Bean,U.K.,2019,Peru,70,4,2.25
+Beau Cacao,U.K.,2017,Malaysia,73,3,3
+Beau Cacao,U.K.,2017,Malaysia,72,3,3.25
+Beehive,U.S.A.,2016,Brazil,80,3,2.75
+Beehive,U.S.A.,2016,Dominican Republic,70,3,2.75
+Beehive,U.S.A.,2016,Ecuador,70,3,2.75
+Beehive,U.S.A.,2016,Ecuador,90,3,2.75
+Belcolade,Belgium,2010,Costa Rica,64,4,2.75
+Belcolade,Belgium,2010,Papua New Guinea,64,4,2.75
+Belcolade,Belgium,2010,Peru,64,4,2.75
+Belcolade,Belgium,2010,Ecuador,71,4,3.5
+Bellflower,U.S.A.,2016,Bolivia,70,3,3.25
+Bellflower,U.S.A.,2016,Tanzania,70,3,3.5
+Bellflower,U.S.A.,2016,Dominican Republic,70,2,3.5
+Belvie,Vietnam,2018,Vietnam,75,3,3.25
+Belvie,Vietnam,2021,Vietnam,70,3,3.75
+Belyzium,Germany,2016,Belize,83,3,2.75
+Belyzium,Germany,2016,Belize,78,3,3
+Belyzium,Germany,2016,Belize,83,3,3.5
+Benns,Singapore,2018,Vietnam,72,4,3
+Benns,Singapore,2018,India,72,4,3
+Benns,Singapore,2018,Malaysia,72,4,3
+Benoit Nihant,Belgium,2011,Madagascar,72,3,3.75
+Benoit Nihant,Belgium,2011,Indonesia,72,3,4
+Benoit Nihant,Belgium,2013,Cuba,74,3,3.5
+Benoit Nihant,Belgium,2013,Venezuela,74,3,3.5
+Benoit Nihant,Belgium,2013,Venezuela,74,3,3.5
+Benoit Nihant,Belgium,2013,Ecuador,73,3,4
+Bernachon,France,2012,Blend,55,5,2.75
+Beschle (Felchlin),Switzerland,2010,Venezuela,70,3,3.25
+Beschle (Felchlin),Switzerland,2010,Venezuela,74,3,3.25
+Beschle (Felchlin),Switzerland,2010,Indonesia,64,3,3.5
+Beschle (Felchlin),Switzerland,2010,Venezuela,72,3,3.5
+Beschle (Felchlin),Switzerland,2011,Madagascar,64,3,3
+Beschle (Felchlin),Switzerland,2011,Venezuela,88,3,3
+Beschle (Felchlin),Switzerland,2011,Venezuela,72,3,3.5
+Beschle (Felchlin),Switzerland,2011,Ecuador,72,3,4
+Bisou,U.S.A.,2015,Nicaragua,76,2,2.5
+Bisou,U.S.A.,2015,Costa Rica,76,2,2.5
+Bisou,U.S.A.,2015,Costa Rica,78,4,2.5
+Bisou,U.S.A.,2015,Belize,86,4,3.25
+Bitacora,Venezuela,2018,Venezuela,70,4,3
+Bitacora,Venezuela,2018,Venezuela,70,4,3
+Bitacora,Venezuela,2018,Venezuela,70,4,3.5
+Bittersweet Origins,U.S.A.,2008,Madagascar,71,2,3
+Bittersweet Origins,U.S.A.,2008,Ghana,70,2,3
+Bittersweet Origins,U.S.A.,2008,Panama,75,2,3.5
+Bittersweet Origins,U.S.A.,2008,Dominican Republic,68,2,3.75
+Bittersweet Origins,U.S.A.,2009,Dominican Republic,75,2,3
+Bittersweet Origins,U.S.A.,2009,Madagascar,75,2,3.25
+Bittersweet Origins,U.S.A.,2009,Dominican Republic,65,2,3.5
+Bittersweet Origins,U.S.A.,2009,Madagascar,65,2,3.5
+Bittersweet Origins,U.S.A.,2010,Indonesia,65,2,2.75
+Bittersweet Origins,U.S.A.,2010,Madagascar,70,2,3
+Bittersweet Origins,U.S.A.,2010,Venezuela,78,2,3
+Bittersweet Origins,U.S.A.,2010,Indonesia,75,2,3.25
+Bittersweet Origins,U.S.A.,2010,Blend,70,2,3.75
+Bittersweet Origins,U.S.A.,2012,Ghana,72,3,3.5
+Bixby,U.S.A.,2018,Haiti,70,2,3
+Bixby,U.S.A.,2018,Guatemala,70,2,3
+Bixby,U.S.A.,2018,Dominican Republic,70,2,3.25
+Bixby,U.S.A.,2019,Belize,70,2,2.75
+Black Mountain,U.S.A.,2008,Dominican Republic,70,3,2.75
+Black Mountain,U.S.A.,2008,Venezuela,70,3,2.75
+Black Mountain,U.S.A.,2008,Nicaragua,70,3,3
+Black Mountain,U.S.A.,2021,Dominican Republic,70,4,3.75
+Black River (A. Morin),U.K.,2014,Jamaica,70,4,2.75
+Black Sheep,U.S.A.,2021,Colombia,72,3,3.25
+Black Sheep,U.S.A.,2021,Belize,72,3,3.25
+Blanxart,Spain,2009,Blend,72,4,2.75
+Blanxart,Spain,2013,Congo,82,4,3.5
+Blue Bandana,U.S.A.,2012,Guatemala,70,3,3.5
+Blue Bandana,U.S.A.,2012,Madagascar,70,3,3.75
+Blue Bandana,U.S.A.,2016,Guatemala,75,2,2.75
+Blue Bandana,U.S.A.,2016,Dominican Republic,75,2,3
+Blue Bandana,U.S.A.,2016,Madagascar,82,2,3.5
+Blue Bandana,U.S.A.,2016,Tanzania,75,2,3.5
+Boho,U.S.A.,2017,Belize,70,3,2.75
+Bonaterra,Malaysia,2019,Malaysia,68,2,2.5
+Bonaterra,Malaysia,2019,Malaysia,72,2,2.75
+Bonaterra,Malaysia,2019,Malaysia,74,2,3.25
+Bonnat,France,2006,Blend,100,NA,1.5
+Bonnat,France,2006,Sri Lanka,75,3,3
+Bonnat,France,2006,Blend,75,3,3.75
+Bonnat,France,2006,Venezuela,75,3,3.75
+Bonnat,France,2006,Madagascar,75,3,3.75
+Bonnat,France,2006,Venezuela,75,3,4
+Bonnat,France,2006,Venezuela,75,3,4
+Bonnat,France,2007,Ecuador,75,3,2.5
+Bonnat,France,2008,Venezuela,75,3,4
+Bonnat,France,2009,Peru,75,3,2.75
+Bonnat,France,2009,Ivory Coast,75,3,3
+Bonnat,France,2009,Mexico,75,3,3
+Bonnat,France,2009,Mexico,75,3,3
+Bonnat,France,2011,Jamaica,75,3,3.25
+Bonnat,France,2011,Cuba,75,3,3.5
+Bonnat,France,2011,Peru,75,3,3.5
+Bonnat,France,2011,Peru,75,3,3.5
+Bonnat,France,2011,Brazil,75,3,3.5
+Bonnat,France,2011,Brazil,75,3,3.75
+Bonnat,France,2011,Haiti,75,3,4
+Bonnat,France,2011,Madagascar,75,3,4
+Bonnat,France,2013,Gabon,75,3,3.25
+Bonnat,France,2013,Brazil,75,3,3.5
+Bonnat,France,2014,Dominican Republic,75,3,3.25
+Bonnat,France,2014,Blend,65,3,3.75
+Bonnat,France,2014,Brazil,75,3,4
+Bonnat,France,2016,Mexico,75,3,3.5
+Bonnat,France,2018,Peru,75,3,4
+Bonnat,France,2018,Blend,75,3,4
+Bonnat,France,2021,Nicaragua,75,3,3.75
+Bouga Cacao (Tulicorp),Ecuador,2009,Ecuador,100,NA,1.5
+Bouga Cacao (Tulicorp),Ecuador,2009,Ecuador,77,2,3.25
+Bowler Man,U.S.A.,2014,Belize,70,NA,2.75
+Bowler Man,U.S.A.,2014,Dominican Republic,70,NA,2.75
+Brasstown,U.S.A.,2018,Ecuador,75,3,3.5
+Brasstown,U.S.A.,2018,Peru,70,3,3.75
+Brasstown,U.S.A.,2018,Bolivia,70,3,4
+Brasstown,U.S.A.,2021,Tanzania,62,3,3
+Brasstown aka It's Chocolate,U.S.A.,2013,Dominican Republic,72,5,3
+Brasstown aka It's Chocolate,U.S.A.,2013,Ecuador,70,5,3.25
+Brasstown aka It's Chocolate,U.S.A.,2013,Ghana,75,5,3.5
+Brasstown aka It's Chocolate,U.S.A.,2013,Venezuela,85,5,3.5
+Brasstown aka It's Chocolate,U.S.A.,2014,Belize,70,3,3.75
+Brasstown aka It's Chocolate,U.S.A.,2014,Venezuela,70,3,4
+Brasstown aka It's Chocolate,U.S.A.,2015,Dominican Republic,68,3,3.75
+Brasstown aka It's Chocolate,U.S.A.,2016,Venezuela,70,3,3.5
+Brasstown aka It's Chocolate,U.S.A.,2016,Nicaragua,70,3,3.75
+Brasstown aka It's Chocolate,U.S.A.,2017,Dominican Republic,70,3,3.25
+Brasstown aka It's Chocolate,U.S.A.,2017,Ecuador,75,3,3.75
+Brazen,U.S.A.,2015,Madagascar,80,3,2.75
+Brazen,U.S.A.,2015,Dominican Republic,60,3,3
+Brazen,U.S.A.,2015,Dominican Republic,80,3,3.25
+Brazen,U.S.A.,2015,Belize,80,3,3.25
+Brazen,U.S.A.,2015,Madagascar,60,3,3.25
+Brazen,U.S.A.,2015,Guatemala,70,2,3.5
+Breeze Mill,U.S.A.,2013,Jamaica,70,4,3
+Bright,Australia,2014,Trinidad,68,3,2.75
+Bright,Australia,2014,Madagascar,72,3,3
+Bright,Australia,2014,Dominican Republic,70,3,3.5
+Bright,Australia,2014,Ecuador,72,3,3.5
+Britarev,Russia,2015,Ecuador,70,2,3.25
+Bronx Grrl Chocolate,U.S.A.,2013,Dominican Republic,68,3,2.75
+Bullion,U.K.,2018,Bolivia,70,3,2.5
+Bullion,U.K.,2018,Guatemala,70,3,3
+Burnt Fork Bend,U.S.A.,2014,Ecuador,60,3,2.5
+Burnt Fork Bend,U.S.A.,2014,Trinidad,72,3,3.25
+Burnt Fork Bend,U.S.A.,2014,Belize,72,3,3.25
+Burnt Fork Bend,U.S.A.,2014,Blend,72,3,3.25
+Burnt Fork Bend,U.S.A.,2014,Ecuador,72,3,3.5
+By Cacao,South Korea,2019,Ecuador,70,2,3
+Cacai Cacao,Taiwan,2019,Taiwan,70,2,3.25
+Cacai Cacao,Taiwan,2019,Philippines,70,2,3.5
+Cacao 70,Canada,2019,Guatemala,70,4,3
+Cacao 70,Canada,2019,Guatemala,70,4,3.5
+Cacao 70,Canada,2019,Bolivia,70,4,3.75
+Cacao Arabuco,Puerto Rico,2015,Puerto Rico,70,2,2.5
+Cacao Atlanta,U.S.A.,2010,Venezuela,75,2,2.25
+Cacao Atlanta,U.S.A.,2010,Dominican Republic,75,2,2.5
+Cacao Atlanta,U.S.A.,2010,Dominican Republic,75,2,2.75
+Cacao Atlanta,U.S.A.,2014,Peru,75,2,2.5
+Cacao Barry,France,2007,Venezuela,72,5,2
+Cacao Barry,France,2007,Mexico,66,5,3
+Cacao Barry,France,2008,Tanzania,75,5,2
+Cacao Barry,France,2010,Dominican Republic,70,5,3
+Cacao Barry,France,2016,Haiti,65,5,3.5
+Cacao Betulia,Switzerland,2018,Colombia,72,2,2.5
+Cacao Betulia,Switzerland,2018,Colombia,72,2,3
+Cacao Betulia,Switzerland,2018,Colombia,72,2,3.75
+Cacao de Origen,Venezuela,2014,Venezuela,75,2,2.5
+Cacao de Origen,Venezuela,2014,Venezuela,74,2,3.25
+Cacao de Origen,Venezuela,2014,Venezuela,75,2,3.5
+Cacao de Origen,Venezuela,2014,Venezuela,70,2,3.75
+Cacao de Origen,Venezuela,2015,Venezuela,74,2,3.25
+Cacao de Origen,Venezuela,2015,Venezuela,75,2,3.25
+Cacao de Origen,Venezuela,2015,Venezuela,77,2,3.5
+Cacao de Origen,Venezuela,2018,Venezuela,75,2,2.75
+Cacao de Origen,Venezuela,2019,Venezuela,75,2,2.5
+Cacao de Origen,Venezuela,2019,Venezuela,70,2,3
+Cacao Gonzales,U.S.A.,2018,Venezuela,70,2,3
+Cacao Hunters,Colombia,2014,Colombia,69,4,2.75
+Cacao Hunters,Colombia,2014,Colombia,70,4,3.25
+Cacao Hunters,Colombia,2014,Colombia,64,4,3.5
+Cacao Hunters,Colombia,2014,Colombia,70,4,3.5
+Cacao Hunters,Colombia,2015,Colombia,72,3,3.75
+Cacao Hunters,Colombia,2016,Colombia,71,3,3.75
+Cacao Hunters,Colombia,2016,Colombia,74,3,3.75
+Cacao Market,U.S.A.,2016,Honduras,70,4,3.5
+Cacao Prieto,U.S.A.,2011,Dominican Republic,72,2,3
+Cacao Prieto,U.S.A.,2011,Dominican Republic,65,2,3.25
+Cacao Prieto,U.S.A.,2011,Dominican Republic,66,2,3.75
+Cacao Prieto,U.S.A.,2012,Dominican Republic,72,2,3.75
+Cacao Sampaka,Spain,2009,Mexico,70,4,4
+Cacao Sampaka,Spain,2009,Mexico,70,4,4
+Cacao Sampaka,Spain,2010,Grenada,71,4,3.25
+Cacao Sampaka,Spain,2010,Madagascar,71,4,3.5
+Cacao Sampaka,Spain,2010,Venezuela,71,4,3.5
+Cacao Sampaka,Spain,2010,Venezuela,77,4,3.5
+Cacao Sampaka,Spain,2010,Ecuador,71,4,3.75
+Cacao Sampaka,Spain,2010,Papua New Guinea,71,4,4
+Cacao Sampaka,Spain,2016,Congo,70,4,3.5
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Dominican Republic,72,4,2.75
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Peru,72,4,2.75
+Cacao Santa Fe (Art of Chocolate),U.S.A.,2020,Ecuador,72,4,3
+Cacao Store,Japan,2015,Madagascar,70,2,3
+Cacao Store,Japan,2015,Peru,70,2,3.25
+Cacao Store,Japan,2015,Vietnam,70,2,3.5
+Cacaodada,South Korea,2018,Ghana,70,NA,3
+Cacaodada,South Korea,2018,Dominican Republic,70,NA,3.25
+Cacaodada,South Korea,2018,Ecuador,70,NA,3.5
+Cacaosuyo,Peru,2021,Peru,70,2,3.5
+Cacaosuyo,Peru,2021,Peru,70,2,3.5
+Cacaosuyo,Peru,2021,Peru,80,2,3.5
+Cacaosuyo,Peru,2021,Peru,70,2,4
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,91,4,1.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,82,4,2.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,63,4,3.5
+Cacaoyere (Ecuatoriana),Ecuador,2008,Ecuador,71,4,3.5
+Callebaut,Belgium,2007,Ecuador,70,NA,1
+Callebaut,Belgium,2008,Grenada,60,NA,2.75
+C-Amaro,Italy,2011,Sao Tome,78,2,2.25
+C-Amaro,Italy,2011,Trinidad,70,2,2.5
+C-Amaro,Italy,2012,Venezuela,80,2,3
+C-Amaro,Italy,2013,Ecuador,100,1,3.5
+C-Amaro,Italy,2014,Cuba,75,2,2.5
+C-Amaro,Italy,2014,Dominican Republic,72,2,3
+C-Amaro,Italy,2014,Blend,70,2,3.5
+Cao,U.S.A.,2016,Venezuela,75,3,2.5
+Cao,U.S.A.,2016,Tanzania,73,3,2.75
+Cao,U.S.A.,2016,Venezuela,70,3,3
+Cao,U.S.A.,2016,Bolivia,75,3,3
+Cao,U.S.A.,2016,Brazil,70,3,3.25
+Caofiori,Colombia,2021,Colombia,70,4,3.25
+Caofiori,Colombia,2021,Colombia,70,4,3.25
+Caofiori,Colombia,2021,Colombia,70,4,3.5
+Caofiori,Colombia,2021,Colombia,70,4,3.75
+Caoni (Tulicorp),Ecuador,2008,Ecuador,77,4,2
+Caoni (Tulicorp),Ecuador,2008,Ecuador,77,4,2.5
+Caoni (Tulicorp),Ecuador,2008,Ecuador,77,4,2.75
+Caoni (Tulicorp),Ecuador,2008,Ecuador,55,4,3
+Caoni (Tulicorp),Ecuador,2008,Ecuador,55,4,3.25
+Caoni (Tulicorp),Ecuador,2008,Ecuador,55,4,3.5
+Captain Pembleton,New Zealand,2014,Papua New Guinea,70,3,3.5
+Captain Pembleton,New Zealand,2014,Papua New Guinea,70,3,3.75
+CAR Artisan,U.S.A.,2021,Nicaragua,70,3,3
+CAR Artisan,U.S.A.,2021,Tanzania,70,3,3.25
+CAR Artisan,U.S.A.,2021,Peru,70,3,3.25
+CAR Artisan,U.S.A.,2021,Mexico,70,3,3.25
+Caribeans,Costa Rica,2012,Costa Rica,80,2,2.75
+Caribeans,Costa Rica,2012,Costa Rica,72,2,3
+Caribeans,Costa Rica,2015,Costa Rica,72,2,3.25
+Caribeans,Costa Rica,2015,Guatemala,72,3,3.5
+Caribeans,Costa Rica,2015,Costa Rica,72,2,3.5
+Carlotta Chocolat,Colombia,2016,Colombia,65,3,3
+Carlotta Chocolat,Colombia,2016,Colombia,65,3,3.25
+Carlotta Chocolat,Colombia,2016,Colombia,65,3,3.25
+Carlotta Chocolat,Colombia,2016,Colombia,65,3,3.5
+Carlotta Chocolat,Colombia,2016,Colombia,65,3,3.5
+Casa,U.S.A.,2018,Blend,75,2,2
+Casa Lasevicius,Brazil,2019,Brazil,71,2,3
+Casa Lasevicius,Brazil,2019,Brazil,65,2,3.25
+Castronovo,U.S.A.,2013,Peru,70,3,2.5
+Castronovo,U.S.A.,2013,Peru,70,3,2.75
+Castronovo,U.S.A.,2013,Bolivia,70,3,3
+Castronovo,U.S.A.,2013,Venezuela,72,3,3
+Castronovo,U.S.A.,2013,Venezuela,70,3,3.25
+Castronovo,U.S.A.,2013,Nicaragua,72,3,3.25
+Castronovo,U.S.A.,2013,Dominican Republic,73,2,3.5
+Castronovo,U.S.A.,2014,Dominican Republic,70,3,2.75
+Castronovo,U.S.A.,2014,Colombia,72,3,3.5
+Castronovo,U.S.A.,2014,Colombia,76,3,3.5
+Castronovo,U.S.A.,2015,Honduras,72,3,3.5
+Castronovo,U.S.A.,2015,Venezuela,72,3,3.5
+Castronovo,U.S.A.,2015,Dominican Republic,70,3,3.75
+Castronovo,U.S.A.,2016,Belize,72,3,4
+Castronovo,U.S.A.,2017,Venezuela,70,2,3.25
+Castronovo,U.S.A.,2019,Puerto Rico,70,3,3.5
+Castronovo,U.S.A.,2019,Mexico,70,3,3.75
+Castronovo,U.S.A.,2021,Peru,70,3,4
+Castronovo,U.S.A.,2021,Venezuela,72,3,4
+Cello,U.S.A.,2014,Ecuador,70,3,2.5
+Cello,U.S.A.,2014,Peru,70,3,2.75
+Cello,U.S.A.,2014,Venezuela,70,3,2.75
+Cello,U.S.A.,2014,Bolivia,70,3,3
+Cemoi,France,2009,Ecuador,72,NA,2.75
+Chaleur B,Canada,2014,Uganda,70,3,2.75
+Chaleur B,Canada,2021,Madagascar,70,3,3
+Chaleur B,Canada,2021,Belize,70,3,3
+Chaleur B,Canada,2021,Peru,72,3,3.25
+Chapon,France,2017,Bolivia,74,2,3
+Chapon,France,2018,Venezuela,68,3,3.5
+Charm School,U.S.A.,2016,Belize,70,3,3.25
+Chchukululu (Tulicorp),Ecuador,2008,Ecuador,75,3,3
+Chchukululu (Tulicorp),Ecuador,2010,Ecuador,55,3,2.75
+Chequessett,U.S.A.,2014,Costa Rica,70,3,3.5
+Chequessett,U.S.A.,2018,Peru,72,3,3
+Chequessett,U.S.A.,2019,Ecuador,72,3,3.5
+Chequessett,U.S.A.,2021,Colombia,83,3,3.25
+Chequessett,U.S.A.,2021,Dominican Republic,69,3,3.25
+Chloe Chocolat,France,2011,Blend,70,NA,3.5
+Chocablog,U.K.,2015,Ecuador,70,3,3.25
+Choco Del Sol,Germany,2014,Belize,75,2,3
+Choco Del Sol,Germany,2014,Belize,82,2,3.25
+Choco Dong,South Korea,2015,Vietnam,70,2,2.75
+Choco Dong,South Korea,2015,Malaysia,70,2,3.5
+Chococard (Lapos),Hungary,2019,Nicaragua,72,3,2.5
+Chococard (Lapos),Hungary,2019,Dominican Republic,71,3,3.25
+Chocolarder,U.K.,2015,Peru,65,2,2.5
+Chocolarder,U.K.,2015,Dominican Republic,80,2,2.5
+Chocolarder,U.K.,2015,Peru,65,2,2.75
+Chocolarder,U.K.,2019,Madagascar,74,2,3
+Chocola'te,U.S.A.,2011,Madagascar,70,2,3.75
+Chocola'te,U.S.A.,2011,Venezuela,68,2,3.75
+Chocolate Alchemist-Philly,U.S.A.,2016,Peru,90,2,2.5
+Chocolate Alchemist-Philly,U.S.A.,2016,Blend,80,2,2.5
+Chocolate Con Amor,U.S.A.,2016,Bolivia,70,2,2.5
+Chocolate Con Amor,U.S.A.,2016,Uganda,70,2,2.75
+Chocolate Con Amor,U.S.A.,2016,Nicaragua,80,2,2.75
+Chocolate Con Amor,U.S.A.,2016,Dominican Republic,60,2,3
+Chocolate Con Amor,U.S.A.,2016,Dominican Republic,75,2,3
+Chocolate Con Amor,U.S.A.,2016,Venezuela,80,2,3
+Chocolate Con Amor,U.S.A.,2016,Ecuador,70,2,3.25
+Chocolate Conspiracy,U.S.A.,2014,Peru,74,3,2.75
+Chocolate Makers,Amsterdam,2015,Dominican Republic,75,3,3.25
+Chocolate Makers,Amsterdam,2015,Congo,68,3,3.5
+Chocolate Makers,Amsterdam,2015,Peru,80,3,3.75
+Chocolate Tree,Scotland,2012,Ecuador,82,3,2.5
+Chocolate Tree,Scotland,2012,Peru,68,3,2.75
+Chocolate Tree,Scotland,2012,Madagascar,72,3,3.25
+Chocolate Tree,Scotland,2013,Peru,70,2,3.75
+Chocolate Tree,Scotland,2015,Peru,69,3,3.75
+Chocolate Tree,Scotland,2015,Venezuela,80,2,3.75
+Chocolate Tree,Scotland,2021,Venezuela,70,3,2.75
+Chocolates by Josh (Box Chocolate),U.S.A.,2018,Dominican Republic,72,3,3.25
+Chocolatoa,Belgium,2019,India,70,3,3
+Chocolats Privilege,Canada,2014,Mexico,70,4,2.5
+Chocolibrium,U.S.A.,2018,India,63,3,2.5
+Chocolibrium,U.S.A.,2018,Guatemala,76,2,2.75
+Chocolibrium,U.S.A.,2018,Peru,70,2,2.75
+ChocoReko,Japan,2015,Venezuela,77,NA,3
+Chocosol,Canada,2011,Mexico,65,NA,3.25
+Chocosol,Canada,2016,Mexico,75,3,3.25
+Chocotenango,U.S.A.,2021,Guatemala,70,2,3.25
+Chocotenango,U.S.A.,2021,Dominican Republic,73,2,3.25
+Chocotenango,U.S.A.,2021,Belize,70,2,3.5
+Chocovic,Spain,2007,Ecuador,71,4,2.5
+Chocovic,Spain,2007,Grenada,71,4,2.5
+Chocovic,Spain,2007,Blend,70,4,3
+Chocovic,Spain,2008,Venezuela,71,4,3.5
+Chocovic,Spain,2009,Blend,60,4,3.25
+Chocovic,Spain,2009,Blend,75,4,3.25
+Chocovic,Spain,2010,Mexico,71,4,3.25
+Chocovic,Spain,2010,Madagascar,71,4,3.5
+Chocovivo,U.S.A.,2015,Mexico,65,2,2.5
+Chocovivo,U.S.A.,2015,Mexico,75,2,2.5
+Choklat,Canada,2009,Venezuela,80,4,2.5
+Choklat,Canada,2009,Mexico,70,4,2.75
+Choklat,Canada,2009,Brazil,70,4,3
+Choklat,Canada,2009,Brazil,80,4,3
+Choklat,Canada,2009,Venezuela,70,4,3
+Chokola,U.S.A.,2020,Guatemala,70,2,3.5
+Chokola,U.S.A.,2020,Venezuela,75,2,3.75
+Chokola,U.S.A.,2020,Belize,70,2,3.75
+Chokola,U.S.A.,2020,Madagascar,67,2,4
+Chokola,U.S.A.,2021,Tanzania,75,2,3.5
+Chokola,U.S.A.,2021,Bolivia,75,2,3.75
+Chokolat Elot (Girard),Martinique,2013,Martinique,42,4,2.75
+Christophe Toury,U.S.A.,2018,Peru,70,2,2.75
+Christopher Elbow,U.S.A.,2018,Peru,75,3,3.75
+Christopher Elbow,U.S.A.,2019,Vietnam,72,3,3
+Christopher Elbow,U.S.A.,2019,Costa Rica,70,3,3.25
+Christopher Elbow,U.S.A.,2019,Ecuador,73,3,3.5
+Christopher Elbow,U.S.A.,2019,Tanzania,72,3,3.5
+Christopher Elbow,U.S.A.,2019,Dominican Republic,72,3,3.75
+Christopher Elbow,U.S.A.,2019,Brazil,70,3,4
+Christopher Morel (Felchlin),Canada,2011,Peru,68,NA,3.75
+Chuao Chocolatier,U.S.A.,2009,Venezuela,61,5,3
+Chuao Chocolatier (Pralus),U.S.A.,2010,Venezuela,77,3,2.75
+Claudio Corallo,Sao Tome,2008,Blend,100,NA,1
+Claudio Corallo,Sao Tome,2008,Blend,80,3,3
+Claudio Corallo,Sao Tome,2008,Blend,75,3,3.75
+Claudio Corallo,Sao Tome,2010,Blend,73.5,2,3.75
+Cleveland Chocolate Company,U.S.A.,2021,Dominican Republic,70,3,3.5
+Cleveland Chocolate Company,U.S.A.,2021,Haiti,79,3,3.5
+Cloudforest,U.S.A.,2015,Ecuador,73,2,3.5
+Coco,Canada,2020,Peru,70,3,3.5
+Cocoa Carib,St. Lucia,2019,St. Lucia,70,4,2.25
+Cocoa Forge,U.S.A.,2021,Peru,68,3,3
+Cocoa Forge,U.S.A.,2021,Madagascar,77,2,3.25
+Cocoa Forge,U.S.A.,2021,Colombia,70,3,3.25
+Compania de Chocolate (Salgado),Argentina,2008,Venezuela,80,NA,2.75
+Compania de Chocolate (Salgado),Argentina,2008,Ecuador,88,NA,2.75
+Compania de Chocolate (Salgado),Argentina,2008,Bolivia,72,NA,3.25
+Compania de Chocolate (Salgado),Argentina,2008,Venezuela,70,NA,3.75
+Compania de Chocolate (Salgado),Argentina,2010,Venezuela,70,NA,3.25
+Condor,U.S.A.,2015,Ecuador,76,2,3.5
+Confluence,U.S.A.,2016,Vietnam,78,2,2.75
+Conjure,U.S.A.,2021,Philippines,70,3,2.5
+Conjure,U.S.A.,2021,Ivory Coast,70,3,2.5
+Conjure,U.S.A.,2021,Peru,68,3,3.25
+Conjure,U.S.A.,2021,Tanzania,75,3,3.5
+Coppeneur,Germany,2007,Madagascar,72,3,3
+Coppeneur,Germany,2008,Mexico,72,3,3
+Coppeneur,Germany,2008,Venezuela,72,3,3
+Coppeneur,Germany,2009,Peru,72,3,3
+Coppeneur,Germany,2009,Peru,62,3,3.25
+Coppeneur,Germany,2009,Venezuela,70,3,3.5
+Coppeneur,Germany,2009,Venezuela,70,3,3.75
+Coppeneur,Germany,2010,Ecuador,72,3,2.5
+Coppeneur,Germany,2010,Venezuela,70,3,3
+Coppeneur,Germany,2010,Trinidad,72,3,3
+Coppeneur,Germany,2010,Grenada,72,3,3.25
+Coppeneur,Germany,2010,Jamaica,72,3,3.25
+Coppeneur,Germany,2010,Venezuela,72,3,3.25
+Coppeneur,Germany,2012,Ecuador,100,NA,1.5
+Coppeneur,Germany,2012,Ghana,85,3,3.5
+Coppeneur,Germany,2012,Madagascar,70,3,3.5
+Coppeneur,Germany,2012,Blend,72,3,3.75
+Coppeneur,Germany,2013,Ecuador,65,4,3.25
+Coppeneur,Germany,2017,Ghana,75,3,3.75
+Cote d' Or (Kraft),Belgium,2006,Blend,70,NA,1
+Cravve,Australia,2012,Tanzania,75,3,3.25
+Cravve,Australia,2012,Brazil,65,3,3.25
+Cravve,Australia,2012,Fiji,67,3,3.25
+Cravve,Australia,2012,Vanuatu,64,3,3.25
+Cravve,Australia,2012,Papua New Guinea,75,3,3.5
+Cravve,Australia,2014,Papua New Guinea,70,3,2.5
+Cravve,Australia,2014,Vanuatu,83,3,2.75
+Creo,U.S.A.,2016,Ecuador,85,3,3.25
+Creo,U.S.A.,2016,Ecuador,73,3,3.75
+Crow and Moss,U.S.A.,2020,Dominican Republic,70,2,3.25
+Crow and Moss,U.S.A.,2020,Colombia,70,2,3.25
+Crow and Moss,U.S.A.,2020,Ecuador,70,2,3.25
+Crow and Moss,U.S.A.,2020,Honduras,70,2,3.5
+Crow and Moss,U.S.A.,2021,India,70,2,3.75
+Cultura,U.S.A.,2020,Guatemala,70,3,3.25
+Cultura,U.S.A.,2020,Haiti,70,3,3.5
+Cultura,U.S.A.,2020,Belize,75,3,3.5
+Cultura,U.S.A.,2020,Mexico,70,3,3.5
+Cuna de Piedra,Mexico,2021,Mexico,73,2,3.75
+Daintree,Australia,2011,Australia,70,5,3.25
+Daintree,Australia,2015,Australia,70,3,2.75
+Dalloway,U.S.A.,2017,Dominican Republic,72,2,2.75
+Damson,U.K.,2015,Grenada,70,3,2.25
+Damson,U.K.,2015,Nicaragua,70,3,2.75
+Damson,U.K.,2015,Trinidad,70,3,3
+Damson,U.K.,2015,Ecuador,70,3,3.5
+Damson,U.K.,2018,Blend,65,4,2.5
+Dancing Lion,U.S.A.,2021,Puerto Rico,68,4,2.5
+Dancing Lion,U.S.A.,2021,India,72,4,3
+Dancing Lion,U.S.A.,2021,Peru,72,4,3.5
+Dandelion,U.S.A.,2012,Costa Rica,70,2,3
+Dandelion,U.S.A.,2012,Colombia,70,2,3.25
+Dandelion,U.S.A.,2012,Dominican Republic,70,2,3.75
+Dandelion,U.S.A.,2013,Venezuela,70,2,2.75
+Dandelion,U.S.A.,2013,Venezuela,70,2,3.25
+Dandelion,U.S.A.,2013,Venezuela,70,2,3.5
+Dandelion,U.S.A.,2013,Papua New Guinea,70,2,3.5
+Dandelion,U.S.A.,2014,Liberia,70,2,2.75
+Dandelion,U.S.A.,2014,Belize,70,2,3.5
+Dandelion,U.S.A.,2014,Ecuador,70,2,3.5
+Dandelion,U.S.A.,2014,Dominican Republic,70,2,3.75
+Dandelion,U.S.A.,2015,Belize,70,2,3
+Dandelion,U.S.A.,2016,Dominican Republic,70,2,3.75
+Dandelion,U.S.A.,2017,Costa Rica,70,2,3
+Dandelion,U.S.A.,2018,Sierra Leone,70,2,3
+Dandelion,U.S.A.,2018,Honduras,70,2,3.25
+Dandelion,U.S.A.,2018,India,70,2,3.5
+Dandelion,U.S.A.,2019,Vietnam,70,2,3.5
+Dandelion,U.S.A.,2021,Guatemala,70,2,2.75
+Dandelion,U.S.A.,2021,India,70,2,2.75
+Dandelion,U.S.A.,2021,Peru,70,2,3.25
+Dandelion,U.S.A.,2021,India,70,2,3.25
+Dandelion,U.S.A.,2021,Tanzania,70,2,3.5
+Dandelion,U.S.A.,2021,Dominican Republic,70,2,3.5
+Dandelion,U.S.A.,2021,Brazil,70,2,4
+Dandelion (aka Brower Ave),U.S.A.,2011,Dominican Republic,70,2,3.25
+Dandelion (aka Brower Ave),U.S.A.,2011,Madagascar,70,2,3.25
+Dandelion (aka Brower Ave),U.S.A.,2011,Tanzania,70,2,3.25
+Dandelion (Japan),U.S.A.,2021,Dominican Republic,70,2,3
+Danta,Guatemala,2009,Guatemala,75,4,3
+Danta,Guatemala,2009,Guatemala,60,4,3.25
+Danta,Guatemala,2011,Guatemala,60,4,3.5
+Danta,Guatemala,2012,Venezuela,75,4,3
+Danta,Guatemala,2012,Guatemala,70,2,3.25
+Danta,Guatemala,2012,Guatemala,70,2,3.75
+Danta,Guatemala,2012,Madagascar,70,2,3.75
+Danta,Guatemala,2012,Guatemala,70,2,4
+Danta,Guatemala,2014,Guatemala,82,4,3.25
+DAR,U.S.A.,2016,Venezuela,72,2,2.75
+DAR,U.S.A.,2016,Vietnam,72,2,3
+DAR,U.S.A.,2016,Blend,70,2,3.25
+Darcis,Belgium,2019,Peru,72,4,3
+Darcis,Belgium,2019,Vietnam,70,4,3.25
+Dark Forest,U.S.A.,2015,Madagascar,70,3,3
+Dark Forest,U.S.A.,2015,Tanzania,70,3,3
+Dark Forest,U.S.A.,2015,Venezuela,70,3,3.25
+Dark Forest,U.S.A.,2015,Ecuador,70,3,3.25
+Dark Forest,U.S.A.,2016,Bolivia,75,3,3.25
+Davis,U.S.A.,2012,Blend,58,4,3.25
+Davis,U.S.A.,2013,Ghana,70,4,2.5
+Davis,U.S.A.,2013,Dominican Republic,70,4,2.75
+Davis,U.S.A.,2013,Venezuela,70,4,2.75
+De Mendes,Brazil,2015,Brazil,72,3,3.5
+De Mendes,Brazil,2015,Brazil,65,3,3.5
+De Villiers,South Africa,2016,Uganda,70,3,2.5
+De Villiers,South Africa,2016,Madagascar,70,3,3
+Dean and Deluca (Belcolade),U.S.A.,2007,Madagascar,66,4,2.5
+Dean and Deluca (Belcolade),U.S.A.,2007,Costa Rica,64,4,3
+Dean and Deluca (Belcolade),U.S.A.,2007,Ecuador,71,4,3
+Dean and Deluca (Belcolade),U.S.A.,2007,Ghana,60,4,3
+Dean and Deluca (Belcolade),U.S.A.,2007,Papua New Guinea,64,4,3
+Dean and Deluca (Belcolade),U.S.A.,2007,Peru,64,4,3
+Debauve & Gallais (Michel Cluizel),France,2008,Venezuela,66,4,3.75
+Debauve & Gallais (Michel Cluizel),France,2009,Papua New Guinea,64,4,3
+Definite,Dominican Republic,2018,Dominican Republic,70,2,2.5
+Definite,Dominican Republic,2018,Dominican Republic,70,2,2.5
+Definite,Dominican Republic,2018,Dominican Republic,80,2,3
+Desbarres,Canada,2016,Tanzania,72,2,2.5
+Desbarres,Canada,2019,Guatemala,72,2,3
+DeVries,U.S.A.,2007,Costa Rica,77,2,3.5
+DeVries,U.S.A.,2007,Dominican Republic,77,2,3.5
+DeVries,U.S.A.,2008,Bolivia,80,2,2.75
+Dick Taylor,U.S.A.,2011,Madagascar,80,2,2.75
+Dick Taylor,U.S.A.,2011,Venezuela,75,2,2.75
+Dick Taylor,U.S.A.,2011,Dominican Republic,74,2,3
+Dick Taylor,U.S.A.,2011,Ecuador,70,2,3.25
+Dick Taylor,U.S.A.,2012,Bolivia,75,2,2.75
+Dick Taylor,U.S.A.,2013,Ecuador,70,2,3.25
+Dick Taylor,U.S.A.,2013,Ecuador,76,2,3.5
+Dick Taylor,U.S.A.,2014,Dominican Republic,74,2,3.5
+Dick Taylor,U.S.A.,2015,Bolivia,70,2,3.75
+Dick Taylor,U.S.A.,2016,Vietnam,78,2,3.5
+Dick Taylor,U.S.A.,2017,Guatemala,70,2,3.75
+Dick Taylor,U.S.A.,2017,Brazil,75,2,3.75
+Dick Taylor,U.S.A.,2017,Solomon Islands,72,2,4
+Dick Taylor,U.S.A.,2018,Fiji,80,2,3.75
+Dick Taylor,U.S.A.,2019,Madagascar,72,2,3.75
+Dick Taylor,U.S.A.,2019,Belize,72,2,4
+Dick Taylor,U.S.A.,2020,Blend,73,2,3.5
+Dick Taylor,U.S.A.,2021,Jamaica,75,2,3.75
+Dick Taylor,U.S.A.,2021,Mexico,72,2,4
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,75,4,2.5
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,70,4,2.75
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,65,4,3
+Diogo Vaz,Sao Tome & Principe,2019,Sao Tome,75,4,3
+Doble & Bignall,U.K.,2014,Panama,72,3,3.25
+Doble & Bignall,U.K.,2014,Venezuela,72,3,3.25
+Doble & Bignall,U.K.,2014,Nicaragua,72,3,3.5
+Doble & Bignall,U.K.,2015,Venezuela,85,3,3
+Dole (Guittard),U.S.A.,2009,U.S.A.,70,NA,3.75
+Dolfin (Belcolade),Belgium,2006,Blend,70,3,1.5
+Dolfin (Belcolade),Belgium,2008,Blend,88,3,3
+Domori,Italy,2006,Venezuela,70,2,3
+Domori,Italy,2006,Peru,70,2,3.25
+Domori,Italy,2006,Venezuela,70,2,3.5
+Domori,Italy,2007,Venezuela,75,2,3.25
+Domori,Italy,2007,Venezuela,60,2,3.25
+Domori,Italy,2007,Madagascar,70,2,3.5
+Domori,Italy,2007,Madagascar,70,2,3.5
+Domori,Italy,2007,Indonesia,70,2,3.75
+Domori,Italy,2007,Venezuela,70,2,4
+Domori,Italy,2007,Ecuador,70,2,4
+Domori,Italy,2007,Venezuela,70,2,4
+Domori,Italy,2008,Venezuela,70,2,3
+Domori,Italy,2008,Colombia,70,2,3
+Domori,Italy,2008,Blend,78,2,3.5
+Domori,Italy,2008,Blend,70,2,3.75
+Domori,Italy,2010,Venezuela,70,2,3
+Domori,Italy,2011,Venezuela,70,2,3.5
+Domori,Italy,2012,Tanzania,70,2,3.5
+Domori,Italy,2012,Venezuela,70,2,3.75
+Domori,Italy,2013,Venezuela,100,NA,3
+Domori,Italy,2015,Ecuador,70,2,3.75
+Domori,Italy,2015,Venezuela,70,2,3.75
+Domori,Italy,2018,Tanzania,70,2,4
+Dormouse,U.K.,2015,Venezuela,70,3,2.5
+Dormouse,U.K.,2015,Colombia,80,3,2.75
+Dormouse,U.K.,2015,Madagascar,77,3,2.75
+Dormouse,U.K.,2016,Grenada,75,3,2.75
+Dormouse,U.K.,2018,Philippines,71.5,3,2.75
+Dormouse,U.K.,2018,Guatemala,72,3,3.5
+Dormouse,U.K.,2018,Peru,80,2,3.5
+Dormouse,U.K.,2021,Belize,78,3,3.25
+Double Spiral,U.S.A.,2019,Dominican Republic,75,2,2.5
+Double Spiral,U.S.A.,2019,Tanzania,70,2,2.75
+Double Spiral,U.S.A.,2019,Dominican Republic,75,2,3
+Duffy's,U.K.,2010,Ecuador,70,3,2.5
+Duffy's,U.K.,2010,Panama,70,3,3.5
+Duffy's,U.K.,2010,Ecuador,72,3,3.75
+Duffy's,U.K.,2010,Peru,70,3,3.75
+Duffy's,U.K.,2011,Panama,72,3,3
+Duffy's,U.K.,2011,Nicaragua,71,3,3.25
+Duffy's,U.K.,2011,Dominican Republic,65,3,3.5
+Duffy's,U.K.,2011,Venezuela,71,3,3.5
+Duffy's,U.K.,2011,Honduras,72,3,3.75
+Duffy's,U.K.,2012,Venezuela,72,3,3.75
+Duffy's,U.K.,2014,Nicaragua,70,4,3.5
+Duffy's,U.K.,2014,Nicaragua,76,4,3.75
+Duffy's,U.K.,2015,Guatemala,70,4,4
+Duffy's,U.K.,2017,Nigeria,70,4,2.75
+Duffy's,U.K.,2018,Guatemala,80,4,3.25
+Duffy's,U.K.,2019,Philippines,70,4,3.5
+Duffy's,U.K.,2021,Nicaragua,70,4,3.5
+Dulcinea,U.S.A.,2015,Dominican Republic,70,2,3.25
+Durand,France,2012,Madagascar,82,NA,2.75
+Durci,U.S.A.,2015,Dominican Republic,70,3,3.25
+Durci,U.S.A.,2015,Venezuela,70,3,3.25
+Durci,U.S.A.,2015,Peru,70,3,3.5
+Durci,U.S.A.,2015,Venezuela,70,3,3.5
+Durci,U.S.A.,2015,Ecuador,70,3,4
+Durci,U.S.A.,2018,Peru,70,3,4
+East Van Roasters,Canada,2014,Peru,70,3,3.25
+East Van Roasters,Canada,2014,Madagascar,70,3,3.5
+East Van Roasters,Canada,2014,Dominican Republic,70,3,3.75
+Eau de Rose,Canada,2016,Colombia,70,3,3.25
+Eau de Rose,Canada,2016,Colombia,70,3,3.25
+Eclat (Felchlin),U.S.A.,2012,Peru,72,3,2.75
+Eclat (Fruition),U.S.A.,2019,Peru,80,2,3.5
+Edelmond,Germany,2016,Venezuela,68,2,3
+El Buen,U.S.A.,2020,Madagascar,70,2,3
+El Buen,U.S.A.,2020,Colombia,70,2,3
+El Ceibo,Bolivia,2008,Bolivia,71,4,2.75
+El Ceibo,Bolivia,2011,Bolivia,75,4,3.75
+El Rey,Venezuela,2006,Venezuela,70,5,2.75
+El Rey,Venezuela,2008,Venezuela,74,5,2.5
+El Rey,Venezuela,2008,Venezuela,58,5,2.5
+El Rey,Venezuela,2008,Venezuela,61,5,3
+El Rey,Venezuela,2009,Venezuela,60.5,5,2.75
+El Rey,Venezuela,2009,Venezuela,70,5,3
+El Rey,Venezuela,2015,Venezuela,70,5,3.75
+Eldora,U.S.A.,2019,Guatemala,70,3,3.5
+Emerald Estate,St. Lucia,2013,St. Lucia,60,2,2.75
+Emerald Estate,St. Lucia,2013,St. Lucia,70,2,3.25
+Emily's,Japan,2015,Venezuela,79,3,3
+Emily's,Japan,2015,Peru,78,3,3.5
+Encuentro,France,2018,Dominican Republic,70,2,3.25
+Encuentro,France,2018,Haiti,70,2,3.5
+Encuentro,France,2018,Guatemala,70,2,3.5
+Encuentro,France,2018,Madagascar,70,2,3.5
+ENNA,U.S.A.,2016,Honduras,75,2,3.25
+ENNA,U.S.A.,2018,Vietnam,72,2,3
+ENNA,U.S.A.,2019,Sierra Leone,70,3,2.5
+ENNA,U.S.A.,2019,Tanzania,80,3,3
+ENNA,U.S.A.,2019,Trinidad,72,3,3.5
+Enric Rovira (Claudio Corallo),Spain,2010,Blend,80,NA,3.25
+Erithaj (A. Morin),France,2014,Vietnam,80,3,3
+Erithaj (A. Morin),France,2014,Vietnam,70,3,3.25
+Erithaj (A. Morin),France,2014,Vietnam,74,3,3.25
+Escazu,U.S.A.,2008,Venezuela,72,4,3
+Escazu,U.S.A.,2009,Costa Rica,65,4,2
+Escazu,U.S.A.,2009,Blend,74,4,2.75
+Escazu,U.S.A.,2009,Venezuela,81,4,3.5
+Escazu,U.S.A.,2012,Venezuela,70,4,2.75
+Escazu,U.S.A.,2021,Blend,65,3,3
+Escazu,U.S.A.,2021,Colombia,70,2,3.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,55,4,2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Trinidad,55,4,2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Venezuela,70,4,2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,62,4,2.5
+Ethel's Artisan (Mars),U.S.A.,2011,Blend,62,4,2.75
+Ethereal,U.S.A.,2014,Belize,80,3,3
+Ethereal,U.S.A.,2014,Ecuador,80,3,3.5
+Ethereal,U.S.A.,2014,Dominican Republic,80,3,3.75
+Ethereal,U.S.A.,2018,Guatemala,80,3,3.5
+Ethereal,U.S.A.,2021,Uganda,70,3,3
+Exquisito,U.S.A.,2019,Peru,73,3,3
+Fearless (AMMA),U.S.A.,2010,Brazil,75,2,2.75
+Feitoria Cacao,Portugal,2016,Venezuela,76,2,2.5
+Feitoria Cacao,Portugal,2016,Belize,76,2,2.75
+Feitoria Cacao,Portugal,2016,Jamaica,76,2,3
+Felchlin,Switzerland,2006,Blend,62,5,2
+Felchlin,Switzerland,2006,Madagascar,64,5,3
+Felchlin,Switzerland,2006,Venezuela,65,5,3
+Felchlin,Switzerland,2006,Dominican Republic,74,5,3
+Felchlin,Switzerland,2006,Ecuador,72,5,3.5
+Felchlin,Switzerland,2006,Bolivia,68,5,4
+Felchlin,Switzerland,2010,Grenada,58,5,3.5
+Finca,U.S.A.,2014,Puerto Rico,65,3,2.25
+Finca,U.S.A.,2014,Dominican Republic,85,3,2.5
+Finca,U.S.A.,2014,Dominican Republic,80,3,3
+Finca,U.S.A.,2014,Dominican Republic,70,3,3.25
+Finnia,Canada,2020,Honduras,70,3,2.75
+Finnia,Canada,2020,Colombia,70,3,2.75
+Finnia,Canada,2020,Mexico,70,3,3
+Finnia,Canada,2020,Blend,70,3,3.25
+Firetree,U.K.,2019,Philippines,73,4,3.25
+Firetree,U.K.,2019,Papua New Guinea,72,4,3.5
+Firetree,U.K.,2019,Solomon Islands,69,4,3.5
+Firetree,U.K.,2019,Vanuatu,72,4,3.75
+Five (5)Mile,U.S.A.,2018,Belize,75,2,2.75
+Five (5)Mile,U.S.A.,2018,Guatemala,75,2,2.75
+Five (5)Mile,U.S.A.,2018,Colombia,75,2,3
+Five (5)Mile,U.S.A.,2018,Dominican Republic,75,2,3.5
+FJAK,Norway,2018,Madagascar,70,3,3
+FJAK,Norway,2018,India,68,3,3.5
+FJAK,Norway,2018,Tanzania,70,3,3.5
+Forever Cacao,U.K.,2014,Peru,72,3,2.75
+Forteza (Cortes),Puerto Rico,2016,Dominican Republic,70,6,2.75
+Forteza (Cortes),Puerto Rico,2016,Dominican Republic,80,6,2.75
+Fossa,Singapore,2016,Madagascar,70,2,2.75
+Fossa,Singapore,2016,Ecuador,75,2,3.5
+Fossa,Singapore,2016,Tanzania,67,2,3.75
+Fossa,Singapore,2018,Dominican Republic,72,2,2.75
+Fossa,Singapore,2018,Bolivia,70,2,3
+Fossa,Singapore,2018,Indonesia,70,2,3
+Fossa,Singapore,2018,Philippines,70,2,3.25
+Fossa,Singapore,2018,Haiti,68,2,3.5
+Fossa,Singapore,2019,Mexico,70,2,3
+Fossa,Singapore,2019,Madagascar,70,2,3.5
+Fossa,Singapore,2021,Indonesia,72,2,3.5
+Fossa,Singapore,2021,Malaysia,72,2,3.5
+Foundry,New Zealand,2019,Papua New Guinea,70,2,3
+Foundry,New Zealand,2019,Bolivia,70,2,3
+Foundry,New Zealand,2019,Vanuatu,70,2,3
+Foundry,New Zealand,2019,Colombia,70,2,3
+Foundry,New Zealand,2019,Tanzania,70,2,3.25
+Foundry,New Zealand,2019,Ecuador,70,2,3.75
+Foundry,New Zealand,2019,Peru,70,2,3.75
+Franceschi,Venezuela,2012,Venezuela,60,3,3.5
+Franceschi,Venezuela,2012,Venezuela,70,3,3.75
+Franceschi,Venezuela,2014,Venezuela,70,3,3.5
+Franceschi,Venezuela,2014,Venezuela,70,3,3.75
+Franceschi,Venezuela,2018,Venezuela,60,4,2.5
+Franceschi,Venezuela,2018,Venezuela,70,3,3
+Franceschi,Venezuela,2018,Venezuela,85,2,3
+Franceschi,Venezuela,2018,Venezuela,70,3,3.25
+Franceschi,Venezuela,2018,Venezuela,72,2,3.5
+Frederic Blondeel,Belgium,2014,Ghana,60,4,3.5
+Frederic Blondeel,Belgium,2014,Madagascar,65,4,3.5
+Frederic Blondeel,Belgium,2015,Vietnam,80,4,3
+Frederic Blondeel,Belgium,2015,Costa Rica,70,4,3.5
+Frederic Blondeel,Belgium,2015,Peru,75,4,3.5
+French Broad,U.S.A.,2011,Peru,70,2,3.5
+French Broad,U.S.A.,2011,Dominican Republic,65,2,3.5
+French Broad,U.S.A.,2012,Peru,81,2,2
+French Broad,U.S.A.,2012,Peru,70,2,2.5
+French Broad,U.S.A.,2012,Peru,66,2,3.5
+French Broad,U.S.A.,2013,Peru,66,2,3.5
+French Broad,U.S.A.,2014,Costa Rica,80,2,3
+French Broad,U.S.A.,2014,Nicaragua,68,2,3.25
+French Broad,U.S.A.,2015,Guatemala,73,2,3.5
+French Broad,U.S.A.,2017,Peru,70,2,3.5
+French Broad,U.S.A.,2019,India,71,3,3.25
+Fresco,U.S.A.,2009,Jamaica,80,3,2.75
+Fresco,U.S.A.,2009,Jamaica,70,3,3
+Fresco,U.S.A.,2009,Jamaica,70,3,3.25
+Fresco,U.S.A.,2009,Venezuela,65,3,3.5
+Fresco,U.S.A.,2011,Ghana,74,3,2.75
+Fresco,U.S.A.,2011,Madagascar,74,3,2.75
+Fresco,U.S.A.,2011,Madagascar,74,3,3
+Fresco,U.S.A.,2011,Jamaica,70,3,3.25
+Fresco,U.S.A.,2011,Dominican Republic,72,3,3.25
+Fresco,U.S.A.,2011,Venezuela,76,3,3.25
+Fresco,U.S.A.,2011,Dominican Republic,72,3,3.5
+Fresco,U.S.A.,2011,Jamaica,70,3,3.5
+Fresco,U.S.A.,2011,Venezuela,70,3,4
+Fresco,U.S.A.,2012,Papua New Guinea,69,2,3
+Fresco,U.S.A.,2012,Papua New Guinea,69,2,3.5
+Fresco,U.S.A.,2012,Papua New Guinea,69,2,3.5
+Fresco,U.S.A.,2012,Madagascar,74,3,4
+Fresco,U.S.A.,2012,Papua New Guinea,69,2,4
+Fresco,U.S.A.,2013,Dominican Republic,72,3,3.25
+Fresco,U.S.A.,2013,Dominican Republic,72,3,3.75
+Fresco,U.S.A.,2013,Peru,70,3,3.75
+Fresco,U.S.A.,2013,Peru,70,3,4
+Fresco,U.S.A.,2014,Peru,70,3,3
+Fresco,U.S.A.,2014,Peru,70,3,3.5
+Fresco,U.S.A.,2014,Peru,70,3,3.5
+Fresco,U.S.A.,2014,Peru,70,3,3.5
+Fresco,U.S.A.,2017,Guatemala,70,3,3.5
+Fresco,U.S.A.,2017,Guatemala,70,3,3.5
+Fresco,U.S.A.,2017,Guatemala,70,3,3.75
+Fresco,U.S.A.,2018,Venezuela,72,3,3.25
+Fresco,U.S.A.,2018,Venezuela,72,3,3.5
+Fresco,U.S.A.,2021,Peru,74,3,3
+Fresco,U.S.A.,2021,Ghana,68,3,3.25
+Fresco,U.S.A.,2021,Peru,74,3,3.25
+Fresco,U.S.A.,2021,Ghana,68,3,3.5
+Fresco,U.S.A.,2021,Nicaragua,70,3,3.5
+Fresco,U.S.A.,2021,Madagascar,70,3,3.5
+Fresco,U.S.A.,2021,Nicaragua,70,3,3.75
+Fresco,U.S.A.,2021,Venezuela,68,3,4
+Fresh Coast,U.S.A.,2017,Brazil,70,2,3.5
+Fresh Coast,U.S.A.,2017,Tanzania,70,2,3.75
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Belize,70,2,3.5
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Madagascar,70,2,3.5
+Fresh Coast aka Just Good Choc.,U.S.A.,2014,Peru,70,2,4
+Friis Holm,Denmark,2016,Nicaragua,70,2,3.5
+Friis Holm,Denmark,2017,Nicaragua,70,3,3.75
+Friis Holm,Denmark,2018,Nicaragua,60,3,3
+Friis Holm,Denmark,2018,Nicaragua,70,3,3
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.25
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.25
+Friis Holm,Denmark,2018,Nicaragua,68,3,3.5
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.5
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.75
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.75
+Friis Holm,Denmark,2018,Nicaragua,70,3,3.75
+Friis Holm,Denmark,2018,Guatemala,70,3,4
+Friis Holm,Denmark,2018,Nicaragua,70,3,4
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,70,3,3.25
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,70,3,3.5
+Friis Holm (Bonnat),Denmark,2011,Nicaragua,70,3,3.5
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,70,3,3.25
+Friis Holm (Bonnat),Denmark,2012,Honduras,70,3,3.25
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,70,3,3.25
+Friis Holm (Bonnat),Denmark,2012,Nicaragua,70,3,3.75
+Friis Holm (Bonnat),Denmark,2013,Nicaragua,70,3,3.25
+Friis Holm (Bonnat),Denmark,2013,Nicaragua,70,3,3.5
+Friis Holm (Bonnat),Denmark,2014,Nicaragua,70,3,3.5
+Friis Holm (Bonnat),Denmark,2015,Nicaragua,60,3,3
+Friis Holm (Bonnat),Denmark,2015,Nicaragua,85,3,3.25
+Fruition,U.S.A.,2011,Costa Rica,70,3,3
+Fruition,U.S.A.,2011,Costa Rica,66,3,3.25
+Fruition,U.S.A.,2012,Peru,70,3,2.5
+Fruition,U.S.A.,2013,Ecuador,75,3,3
+Fruition,U.S.A.,2013,Dominican Republic,70,3,3.75
+Fruition,U.S.A.,2014,Peru,76,3,3
+Fruition,U.S.A.,2014,Trinidad,70,3,3.75
+Fruition,U.S.A.,2016,Bolivia,74,2,3.75
+Fruition,U.S.A.,2016,Costa Rica,74,2,4
+Fruition,U.S.A.,2019,Colombia,85,2,3.5
+Fruition,U.S.A.,2019,Madagascar,74,2,3.75
+Fruition,U.S.A.,2021,Dominican Republic,77,2,3.25
+Fruition,U.S.A.,2021,Dominican Republic,68,4,3.75
+Fruition,U.S.A.,2021,Peru,72,3,3.75
+Fu Wan,Taiwan,2018,Taiwan,70,3,2.5
+Fu Wan,Taiwan,2018,Madagascar,70,2,3
+Fu Wan,Taiwan,2018,Tanzania,70,2,3
+Fu Wan,Taiwan,2018,Venezuela,70,3,3.5
+Garden Island,U.S.A.,2014,U.S.A.,85,3,2.5
+Georgia Ramon,Germany,2015,Madagascar,65,4,3.25
+Georgia Ramon,Germany,2015,Dominican Republic,70,4,3.5
+Georgia Ramon,Germany,2015,Dominican Republic,80,4,3.5
+Georgia Ramon,Germany,2015,Madagascar,75,4,3.5
+Georgia Ramon,Germany,2015,Ghana,70,4,4
+Georgia Ramon,Germany,2017,St. Lucia,77,3,3.5
+Georgia Ramon,Germany,2017,Venezuela,75,3,3.5
+Georgia Ramon,Germany,2018,Guatemala,72,3,2.75
+Georgia Ramon,Germany,2019,Venezuela,75,3,2.75
+Glennmade,U.S.A.,2015,Brazil,66,2,3
+Glennmade,U.S.A.,2016,Belize,70,2,3.5
+Goodnow Farms,U.S.A.,2016,Mexico,77,3,2.75
+Goodnow Farms,U.S.A.,2016,Guatemala,77,3,3.25
+Goodnow Farms,U.S.A.,2016,Nicaragua,77,3,3.25
+Goodnow Farms,U.S.A.,2017,Peru,70,3,3.25
+Goodnow Farms,U.S.A.,2019,Colombia,73,3,2.5
+Goodnow Farms,U.S.A.,2019,Costa Rica,73,3,3
+Goodnow Farms,U.S.A.,2021,Ecuador,70,3,3.75
+Gotham,U.S.A.,2018,Belize,70,2,2.75
+Gotham,U.S.A.,2021,India,70,2,3
+Gotham,U.S.A.,2021,Bolivia,70,2,3.25
+Gotham,U.S.A.,2021,Dominican Republic,70,2,3.25
+Grand Place,Vietnam,2011,Vietnam,72,5,3
+Great Lakes,U.S.A.,2021,Madagascar,72,3,3.5
+Great Lakes,U.S.A.,2021,Tanzania,70,3,3.5
+Great Lakes,U.S.A.,2021,Dominican Republic,75,3,3.5
+Great Lakes,U.S.A.,2021,Vietnam,73,3,3.5
+Green & Black's (ICAM),U.K.,2006,Blend,70,5,2.5
+Green Bean to Bar,Japan,2016,Madagascar,70,2,3.5
+Green Bean to Bar,Japan,2019,Peru,73,2,2.5
+Green Door,U.K.,2021,India,70,3,3
+Grenada Chocolate Co.,Grenada,2008,Grenada,71,5,2.5
+Grenada Chocolate Co.,Grenada,2009,Grenada,60,5,2.75
+Grenada Chocolate Co.,Grenada,2010,Grenada,82,5,3.25
+Guido Castagna,Italy,2009,Ecuador,64,4,3
+Guido Castagna,Italy,2009,Ghana,64,4,3
+Guido Castagna,Italy,2009,Blend,64,4,3
+Guido Castagna,Italy,2009,Venezuela,76,4,3
+Guido Castagna,Italy,2009,Blend,64,4,3.25
+Guido Castagna,Italy,2018,Madagascar,70,4,2.75
+Guittard,U.S.A.,2006,Venezuela,65,5,2.5
+Guittard,U.S.A.,2006,Colombia,65,5,3
+Guittard,U.S.A.,2006,Blend,61,5,3
+Guittard,U.S.A.,2006,Madagascar,65,5,3.5
+Guittard,U.S.A.,2006,Ecuador,65,5,3.5
+Guittard,U.S.A.,2006,Blend,61,5,3.5
+Guittard,U.S.A.,2007,Blend,72,5,3.5
+Guittard,U.S.A.,2008,Peru,65,5,3
+Guittard,U.S.A.,2008,Blend,64,5,3
+Guittard,U.S.A.,2008,Venezuela,65,5,3.5
+Guittard,U.S.A.,2009,U.S.A.,55,5,3
+Guittard,U.S.A.,2009,Blend,91,5,3
+Guittard,U.S.A.,2009,Blend,70,5,3.5
+Guittard,U.S.A.,2010,Trinidad,65,5,3
+Guittard,U.S.A.,2011,Blend,72,5,2.75
+Guittard,U.S.A.,2011,Blend,61,5,3.25
+Guittard,U.S.A.,2011,Blend,72,5,3.25
+Guittard,U.S.A.,2013,Haiti,65,5,2.75
+Guittard,U.S.A.,2013,Nicaragua,65,5,2.75
+Guittard,U.S.A.,2013,Jamaica,65,5,3.25
+Guittard,U.S.A.,2013,Ecuador,65,5,3.5
+Guittard,U.S.A.,2015,Blend,70,5,3.75
+Habitual,Canada,2014,Blend,100,NA,2
+Habitual,Canada,2014,Papua New Guinea,80,3,2.75
+Habitual,Canada,2014,Blend,74,3,2.75
+Habitual,Canada,2014,Blend,65,3,2.75
+Habitual,Canada,2014,Blend,70,3,3
+Habitual,Canada,2014,Blend,80,3,3
+Habitual,Canada,2014,Dominican Republic,75,3,3.25
+Habitual,Canada,2014,U.S.A.,66,3,3.25
+Habitual,Canada,2014,Blend,70,3,3.5
+Hachez,Germany,2007,Ecuador,77,4,2.5
+Hacienda El Castillo,Ecuador,2014,Ecuador,55,4,2.75
+Hacienda El Castillo,Ecuador,2014,Ecuador,70,4,3
+Haigh,Australia,2011,Blend,70,NA,3
+Harper Macaw,U.S.A.,2015,Brazil,67,3,3
+Harper Macaw,U.S.A.,2015,Brazil,77,3,3.5
+Harper Macaw,U.S.A.,2015,Brazil,74,3,3.5
+Harper Macaw,U.S.A.,2016,Brazil,85,3,3.25
+Harper Macaw,U.S.A.,2018,Brazil,75,3,3
+Harris & James,U.K.,2019,India,70,3,3
+Harris & James,U.K.,2019,Vietnam,70,3,3.25
+Hazel Hill,U.S.A.,2019,Peru,65,3,2.75
+Hazel Hill,U.S.A.,2019,Tanzania,72,3,3.25
+Hazel Hill,U.S.A.,2019,Dominican Republic,70,3,3.5
+Hecho,Mexico,2021,Mexico,70,2,3.5
+Heilemann,Germany,2016,Peru,64,3,2.75
+Heinde & Verre,Netherlands,2019,Indonesia,71,4,2.5
+Heinde & Verre,Netherlands,2019,Blend,71,4,2.5
+Heinde & Verre,Netherlands,2019,Venezuela,71,4,3
+Heirloom Cacao Preservation (Brasstown),U.S.A.,2016,Belize,70,3,3.25
+Heirloom Cacao Preservation (Fruition),U.S.A.,2016,Costa Rica,74,3,3.5
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Bolivia,67,3,3
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Bolivia,67,3,3.5
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,Ecuador,67,3,3.75
+Heirloom Cacao Preservation (Guittard),U.S.A.,2014,U.S.A.,67,3,3.75
+Heirloom Cacao Preservation (Manoa),U.S.A.,2016,U.S.A.,72,3,3.5
+Heirloom Cacao Preservation (Millcreek),U.S.A.,2016,Ecuador,70,3,3.5
+Heirloom Cacao Preservation (Mindo),U.S.A.,2016,Ecuador,77,3,3.5
+Heirloom Cacao Preservation (Zokoko),U.S.A.,2016,Bolivia,68,3,3.75
+Heirloom Cacao Preservation (Zokoko),U.S.A.,2016,Bolivia,72,3,4
+hello cocoa (now Markham & Fitz),U.S.A.,2015,Uganda,57,3,2.75
+hello cocoa (now Markham & Fitz),U.S.A.,2015,Venezuela,74,3,3.5
+Hemisphere,U.S.A.,2021,Ecuador,70,2,2.75
+Hemisphere,U.S.A.,2021,Nicaragua,70,2,3.25
+hexx,U.S.A.,2015,Tanzania,70,2,2.75
+hexx,U.S.A.,2015,Madagascar,74,2,3
+hexx,U.S.A.,2015,Venezuela,70,2,3
+hexx,U.S.A.,2015,Ecuador,73,2,3.25
+hexx,U.S.A.,2015,Peru,70,2,3.25
+hexx,U.S.A.,2018,Peru,70,2,2.25
+hexx,U.S.A.,2018,Ecuador,73,2,2.5
+hexx,U.S.A.,2018,Madagascar,74,2,2.75
+hexx,U.S.A.,2018,Tanzania,70,2,3
+hexx,U.S.A.,2018,Dominican Republic,71,2,3.5
+Hogarth,New Zealand,2016,Madagascar,70,3,2.75
+Hogarth,New Zealand,2016,Venezuela,72,3,2.75
+Hogarth,New Zealand,2016,Dominican Republic,75,3,3.25
+Hogarth,New Zealand,2016,Peru,66,3,3.5
+Hogarth,New Zealand,2019,Venezuela,68,3,3.25
+Hogarth,New Zealand,2019,Ecuador,85,3,3.5
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,80,4,2
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,80,2,2.5
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,72,2,3
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,58,4,3.25
+Hoja Verde (Tulicorp),Ecuador,2009,Ecuador,58,4,3.5
+Holy Cacao,Israel,2009,Ivory Coast,70,2,2.5
+Holy Cacao,Israel,2009,Dominican Republic,70,2,2.75
+Holy Cacao,Israel,2009,Peru,70,2,3.5
+Holy Cacao,Israel,2009,Dominican Republic,75,2,3.75
+Holy Cacao,Israel,2015,Ecuador,70,4,3.5
+Holy Cacao,Israel,2015,Madagascar,70,4,3.5
+Holy Cacao,Israel,2015,Trinidad,70,4,3.5
+Holy Cacao,Israel,2015,Venezuela,70,4,3.5
+Holy Cacao,Israel,2016,Peru,70,4,2.75
+Honest,South Africa,2014,Ecuador,72,2,2.5
+Hotel Chocolat,U.K.,2013,St. Lucia,100,NA,1.75
+Hotel Chocolat,U.K.,2013,St. Lucia,70,2,4
+Hotel Chocolat,U.K.,2015,St. Lucia,70,2,2.75
+Hotel Chocolat,U.K.,2018,Colombia,75,4,2.75
+Hotel Chocolat,U.K.,2019,Honduras,72,4,3
+Hotel Chocolat,U.K.,2019,Tanzania,80,4,3
+Hotel Chocolat (Coppeneur),U.K.,2008,Uganda,80,NA,2.5
+Hotel Chocolat (Coppeneur),U.K.,2008,Tanzania,75,4,2.75
+Hotel Chocolat (Coppeneur),U.K.,2008,St. Lucia,72,3,3
+Hotel Chocolat (Coppeneur),U.K.,2008,Sao Tome,72,4,3
+Hotel Chocolat (Coppeneur),U.K.,2010,Ecuador,70,NA,2.75
+Hotel Chocolat (Coppeneur),U.K.,2010,Venezuela,70,4,2.75
+Hotel Chocolat (Coppeneur),U.K.,2010,Dominican Republic,70,NA,3
+Hotel Chocolat (Coppeneur),U.K.,2011,Ecuador,80,4,3
+Hotel Chocolat (Coppeneur),U.K.,2011,St. Lucia,65,4,3
+Hotel Chocolat (Coppeneur),U.K.,2011,St. Lucia,65,4,3.25
+Hotel Chocolat (Coppeneur),U.K.,2012,Madagascar,66,4,3.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,100,1,2.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Peru,100,NA,2.75
+Hotel Chocolat (Coppeneur),U.K.,2013,Dominican Republic,100,NA,2.75
+Hotel Chocolat (Coppeneur),U.K.,2013,Trinidad,75,4,3
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,90,2,3
+Hotel Chocolat (Coppeneur),U.K.,2013,Madagascar,72,4,3
+Hotel Chocolat (Coppeneur),U.K.,2013,Vietnam,80,4,3.5
+Hotel Chocolat (Coppeneur),U.K.,2013,Ecuador,82,2,3.5
+Hummingbird,Canada,2013,Venezuela,70,3,3.25
+Hummingbird,Canada,2013,Venezuela,70,3,3.75
+Hummingbird,Canada,2014,Bolivia,70,3,3
+Hummingbird,Canada,2014,Bolivia,70,3,3
+Hummingbird,Canada,2014,Nicaragua,70,3,3
+Hummingbird,Canada,2014,Dominican Republic,70,3,3.5
+Hummingbird,Canada,2014,Dominican Republic,70,3,3.75
+Hummingbird,Canada,2015,Vietnam,70,3,3.5
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,3.25
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,3.5
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,3.75
+Idilio (Felchlin),Switzerland,2011,Venezuela,74,3,4
+Idilio (Felchlin),Switzerland,2011,Venezuela,70,3,4
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,4
+Idilio (Felchlin),Switzerland,2011,Venezuela,72,3,4
+Idilio (Felchlin),Switzerland,2013,Venezuela,72,3,3.75
+Indah,India,2016,India,61,4,2.5
+Indi,U.S.A.,2014,Honduras,77,3,3
+Indi,U.S.A.,2017,Vietnam,72,3,3.25
+iQ Chocolate,Scotland,2012,Peru,72,4,2.75
+iQ Chocolate,Scotland,2012,Peru,72,4,3
+Isidro,U.S.A.,2014,Peru,72,2,2.25
+Isidro,U.S.A.,2014,Belize,72,2,3.25
+Isidro,U.S.A.,2014,Dominican Republic,72,2,3.25
+Isidro,U.S.A.,2014,Madagascar,72,2,3.5
+Islands Chocolate,St.Vincent-Grenadines,2018,St.Vincent-Grenadines,72,4,2.75
+Izard,U.S.A.,2015,Dominican Republic,70,2,2.75
+Izard,U.S.A.,2015,Belize,70,2,3.5
+Jacque Torres,U.S.A.,2006,Ghana,71,5,2
+Jean Marie Auboine,U.S.A.,2018,Venezuela,72,3,3.25
+Johnny Iuzzini,U.S.A.,2017,Jamaica,67,4,3
+Johnny Iuzzini,U.S.A.,2017,Peru,75,4,3
+Johnny Iuzzini,U.S.A.,2017,Venezuela,72,3,3.5
+Johnny Iuzzini,U.S.A.,2017,Vietnam,65,4,3.5
+Johnny Iuzzini,U.S.A.,2017,Ecuador,70,4,3.5
+Johnny Iuzzini,U.S.A.,2017,Madagascar,68,5,3.5
+Johnny Iuzzini,U.S.A.,2017,Ecuador,78,4,3.75
+Johnny Iuzzini,U.S.A.,2018,India,66,4,3
+Johnny Iuzzini,U.S.A.,2018,Colombia,73,4,3.25
+Johnny Iuzzini,U.S.A.,2018,Trinidad,80,4,3.25
+Jordis,Czech Republic,2015,Madagascar,63,2,2.75
+Jordis,Czech Republic,2020,Venezuela,75,3,2.75
+Kad Kokoa,Thailand,2018,Thailand,70,3,3
+Kad Kokoa,Thailand,2018,Thailand,70,3,3.5
+Kad Kokoa,Thailand,2018,Thailand,70,3,3.5
+Kad Kokoa,Thailand,2018,Thailand,70,3,3.75
+Kah Kow,Dominican Republic,2013,Dominican Republic,82,5,3
+Kah Kow,Dominican Republic,2013,Dominican Republic,55,5,3.25
+Kah Kow,Dominican Republic,2013,Dominican Republic,62,5,3.25
+Kah Kow,Dominican Republic,2013,Dominican Republic,70,5,3.5
+Kah Kow,U.S.A.,2020,Dominican Republic,68,4,3.75
+Kah Kow,U.S.A.,2020,Dominican Republic,70,3,3.75
+Kah Kow,U.S.A.,2020,Dominican Republic,67,4,3.75
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,70,3,3
+Kah Kow - USA,U.S.A.,2019,Dominican Republic,72,4,3
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,71.5,3,3.5
+Kah Kow - USA,Dominican Republic,2019,Dominican Republic,68,4,3.75
+Kah Kow - USA,U.S.A.,2019,Dominican Republic,65,4,3.75
+Kaitxo,Spain,2019,Nicaragua,75,3,3
+Kaitxo,Spain,2019,Peru,75,3,3
+Kaitxo,Spain,2019,Tanzania,75,3,3.25
+Kakao,Germany,2009,Vanuatu,65,NA,3.75
+Kakao,Germany,2012,Peru,64,NA,2.5
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,85,4,2.5
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,75,4,2.5
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,75,4,2.75
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,85,4,2.75
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,70,4,3
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,85,4,3
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,85,4,3
+Kallari (Ecuatoriana),Ecuador,2008,Ecuador,70,4,3.5
+Kaoka (Cemoi),France,2009,Blend,70,NA,2.75
+Kaoka (Cemoi),France,2009,Ecuador,80,NA,2.75
+Kasama,Canada,2021,Philippines,70,3,3.25
+Kasama,Canada,2021,Papua New Guinea,70,3,3.5
+Kerchner,U.S.A.,2013,Dominican Republic,70,3,3.75
+Ki' Xocolatl,Mexico,2009,Mexico,72,5,2
+Kin + Pod,Canada,2020,Colombia,70,3,3.25
+Kiskadee,U.S.A.,2014,Dominican Republic,60,2,3
+Krak,Amsterdam,2017,Belize,70,2,3
+Krak,Amsterdam,2017,Vietnam,70,2,3
+Krak,Amsterdam,2017,Mexico,70,2,3.25
+Krak,Amsterdam,2018,Madagascar,70,2,3
+Krak,Amsterdam,2018,Philippines,70,2,3.25
+Krak,Amsterdam,2018,Mexico,70,2,3.75
+Krak,Netherlands,2019,Colombia,70,2,3
+Krak,Amsterdam,2019,Papua New Guinea,70,2,3.25
+Kto,U.S.A.,2014,Peru,72,2,2.5
+Kto,U.S.A.,2014,Venezuela,72,3,2.75
+Kto,U.S.A.,2014,Belize,72,3,3
+Kto,U.S.A.,2014,Madagascar,72,3,3.25
+Kto,U.S.A.,2014,Belize,90,2,3.25
+Kto,U.S.A.,2014,Dominican Republic,72,3,3.25
+Kto,U.S.A.,2014,Dominican Republic,72,3,3.25
+K'ul,U.S.A.,2016,Peru,70,4,2.75
+K'ul,U.S.A.,2016,Haiti,70,4,3.25
+K'ul,U.S.A.,2016,Brazil,70,4,3.75
+K'ul,U.S.A.,2016,Ecuador,70,4,3.75
+Kyya,U.S.A.,2014,Uganda,72.5,5,2.5
+Kyya,U.S.A.,2014,Ecuador,72.5,5,2.5
+Kyya,U.S.A.,2014,Dominican Republic,72.5,5,3
+Kyya,U.S.A.,2014,Madagascar,72.5,5,3
+L.A. Burdick (Felchlin),U.S.A.,2009,Bolivia,68,5,3
+L.A. Burdick (Felchlin),U.S.A.,2009,Madagascar,64,5,3.5
+L.A. Burdick (Felchlin),U.S.A.,2010,Venezuela,71,5,3
+L.A. Burdick (Felchlin),U.S.A.,2010,Grenada,75,5,3.25
+L.A. Burdick (Felchlin),U.S.A.,2010,Dominican Republic,74,5,3.75
+L.A. Burdick (Felchlin),U.S.A.,2011,Ecuador,74,5,3.75
+L.A. Burdick (Felchlin),U.S.A.,2012,Peru,74,5,3.25
+L.A. Burdick (Felchlin),U.S.A.,2012,Venezuela,68,5,3.75
+L.A. Burdick (Felchlin),U.S.A.,2012,Brazil,70,5,4
+La Cascade du Chocolat,U.S.A.,2019,Fiji,68,3,3
+La Chocolaterie Nanairo,Japan,2016,Peru,70,NA,2.25
+La Chocolaterie Nanairo,Japan,2016,Peru,70,NA,2.5
+La Chocolaterie Nanairo,Japan,2016,Belize,70,NA,3
+La Chocolaterie Nanairo,Japan,2016,Peru,70,NA,3
+La Chorena,U.S.A.,2018,Dominican Republic,70,2,3
+La Chorena,U.S.A.,2018,Peru,75,2,3
+La Chorena,U.S.A.,2018,Belize,70,4,3.25
+La Chorena,U.S.A.,2018,Guatemala,70,2,3.25
+La Feverie (Hasnaa),France,2018,Belize,70,2,3.5
+La Feverie (Hasnaa),France,2018,Guatemala,70,2,3.5
+La Feverie (Hasnaa),France,2019,Peru,72,2,3.5
+La Maison du Chocolat (Valrhona),France,2008,Blend,74,4,3.5
+La Maison du Chocolat (Valrhona),France,2009,Blend,60,4,3
+La Maison du Chocolat (Valrhona),France,2009,Ghana,68,4,3.25
+La Maison du Chocolat (Valrhona),France,2009,Venezuela,69,4,3.5
+La Maison du Chocolat (Valrhona),France,2009,Blend,60,4,3.75
+La Maison du Chocolat (Valrhona),France,2011,Grenada,68,4,3.5
+La Maison du Chocolat (Valrhona),France,2012,Dominican Republic,66,4,3.5
+La Maison du Chocolat (Valrhona),France,2013,Blend,74,4,2.75
+La Maison du Chocolat (Valrhona),France,2013,Tobago,60,4,3.25
+La Maison du Chocolat (Valrhona),France,2013,Ecuador,56,4,3.25
+La Oroquidea,Peru,2011,Peru,72,NA,2.5
+La Pepa de Oro,Ecuador,2011,Ecuador,60,NA,3.25
+La Rifa,Mexico,2018,Mexico,70,2,3
+La Rifa,Mexico,2018,Mexico,70,2,3.5
+La Rifa,Mexico,2018,Mexico,70,2,3.5
+Laia aka Chat-Noir,France,2014,Cuba,70,4,2.75
+Laia aka Chat-Noir,France,2014,Blend,68,4,2.75
+Laia aka Chat-Noir,France,2015,Madagascar,75,4,2.75
+Laia aka Chat-Noir,France,2015,Vietnam,75,4,2.75
+Laia aka Chat-Noir,France,2015,Cuba,75,4,3
+Laia aka Chat-Noir,France,2015,Ivory Coast,75,4,3
+Laia aka Chat-Noir,France,2015,Peru,75,4,3.25
+Laia aka Chat-Noir,France,2015,Brazil,75,4,3.25
+Laia aka Chat-Noir,France,2015,Sao Tome,75,4,3.5
+Laia aka Chat-Noir,France,2015,Vietnam,75,4,3.75
+Lajedo do Ouro,Brazil,2012,Brazil,70,NA,3.5
+Lake Champlain (Callebaut),U.S.A.,2009,Tanzania,75,NA,2.5
+L'Amourette,U.S.A.,2012,Venezuela,75,5,3
+L'Amourette,U.S.A.,2012,Venezuela,75,5,3
+L'Amourette,U.S.A.,2012,Blend,72,5,3
+L'Amourette,U.S.A.,2016,Nicaragua,80,2,3.5
+Land,U.K.,2018,Nicaragua,71,3,3
+Land,U.K.,2018,Honduras,70,3,3.25
+Land,U.K.,2018,Nicaragua,73,3,3.5
+Landmark (Amano),U.S.A.,2017,Bolivia,74,3,3.75
+Legast,Belgium,2019,Colombia,70,3,2.75
+Legast,Belgium,2019,Costa Rica,70,3,3.25
+Legast,Belgium,2019,Peru,70,3,3.5
+Letterpress,U.S.A.,2014,Peru,70,2,3.5
+Letterpress,U.S.A.,2015,Costa Rica,70,2,3
+Letterpress,U.S.A.,2015,Bolivia,70,2,3.25
+Letterpress,U.S.A.,2015,Dominican Republic,70,2,3.25
+Letterpress,U.S.A.,2015,Trinidad,70,2,3.5
+Letterpress,U.S.A.,2015,Tanzania,70,2,3.5
+Letterpress,U.S.A.,2016,Liberia,70,2,3.25
+Letterpress,U.S.A.,2017,Belize,70,2,3.25
+Letterpress,U.S.A.,2017,Honduras,70,2,3.5
+Letterpress,U.S.A.,2017,Peru,70,3,4
+Letterpress,U.S.A.,2018,Ghana,70,3,3.75
+Letterpress,U.S.A.,2019,Jamaica,70,3,3.25
+Letterpress,U.S.A.,2019,Bolivia,70,3,3.25
+Letterpress,U.S.A.,2021,Sao Tome & Principe,70,3,3.5
+Letterpress,U.S.A.,2021,U.S.A.,70,3,3.75
+Levy,Finland,2014,Madagascar,71,3,3.5
+Lilla,Finland,2016,Madagascar,70,2,3
+Lillie Belle,U.S.A.,2012,Blend,75,2,2.75
+Lillie Belle,U.S.A.,2012,Dominican Republic,74,2,3
+Lillie Belle,U.S.A.,2012,Peru,65,2,3.5
+Lillie Belle,U.S.A.,2012,Bolivia,68,2,3.5
+Lillie Belle,U.S.A.,2012,Bolivia,68,2,3.5
+Lillie Belle,U.S.A.,2012,Peru,68,2,3.75
+Lindt & Sprungli,Switzerland,2007,Blend,85,4,3
+Lirio,U.S.A.,2020,Sierra Leone,72,2,2.5
+Lirio,U.S.A.,2020,India,72,2,3
+Lirio,U.S.A.,2020,Vietnam,72,2,3
+Loiza,Puerto Rico,2013,Puerto Rico,65,5,2.5
+Lonohana,U.S.A.,2013,U.S.A.,71,4,3
+Lonohana,U.S.A.,2013,U.S.A.,72,4,3
+Lonohana,U.S.A.,2013,U.S.A.,70,4,3.5
+Lonohana,U.S.A.,2014,U.S.A.,65,4,3.25
+Lonohana,U.S.A.,2014,U.S.A.,70,2,3.75
+Lonohana,U.S.A.,2014,U.S.A.,75,4,3.75
+Loon,U.S.A.,2021,Bolivia,70,3,2.75
+Loon,U.S.A.,2021,Belize,75,3,3
+Love Bar,U.S.A.,2015,Nicaragua,75,2,2
+Love Brown,Taiwan,2018,Nicaragua,75,2,2.5
+Love Brown,Taiwan,2018,Sumatra,70,2,3
+Love Brown,Taiwan,2018,Nicaragua,80,2,3.25
+Love Brown,Taiwan,2018,Nicaragua,78,2,3.5
+Luisa Abram,Brazil,2017,Brazil,81,2,3.25
+Luisa Abram,Brazil,2018,Brazil,70,2,3
+Luisa Abram,Brazil,2021,Brazil,70,3,3.25
+Luisa's Vegan,U.K.,2020,Papua New Guinea,72,3,3.25
+Luker,Colombia,2010,Blend,46,5,2.75
+Luker,Colombia,2010,Blend,60,5,3
+Luker,Colombia,2010,Blend,58,5,3
+Luker,Colombia,2010,Colombia,65,5,3.5
+Lumineux,U.S.A.,2020,India,72,3,3
+Lumineux,U.S.A.,2020,Madagascar,73,3,3.25
+Lumineux,U.S.A.,2020,Tanzania,75,3,3.25
+Lumineux,U.S.A.,2020,Uganda,68,3,3.25
+Lumineux,U.S.A.,2020,Ivory Coast,67,3,3.5
+Machu Picchu Trading Co.,Peru,2010,Peru,55,NA,2.25
+Machu Picchu Trading Co.,Peru,2011,Peru,70,NA,1.5
+MaDe Atlantic City Chocolate Bar,U.S.A.,2019,Uganda,75,3,2.5
+MaDe Atlantic City Chocolate Bar,U.S.A.,2019,Ghana,75,3,2.75
+Madecasse (Cinagra),Madagascar,2008,Madagascar,67,5,3.5
+Madecasse (Cinagra),Madagascar,2008,Madagascar,75,5,3.5
+Madecasse (Cinagra),Madagascar,2008,Madagascar,70,5,3.75
+Madecasse (Cinagra),Madagascar,2008,Madagascar,63,5,4
+Madhu,U.S.A.,2021,Colombia,70,2,2.5
+Madre,U.S.A.,2010,Mexico,72,4,2.75
+Madre,U.S.A.,2011,Dominican Republic,70,4,2.5
+Madre,U.S.A.,2011,Costa Rica,70,4,2.75
+Madre,U.S.A.,2012,U.S.A.,70,4,3.25
+Madre,U.S.A.,2012,U.S.A.,70,4,3.25
+Madre,U.S.A.,2012,U.S.A.,70,4,3.5
+Madre,U.S.A.,2013,Puerto Rico,70,4,2.75
+Madre,U.S.A.,2013,U.S.A.,70,4,2.75
+Madre,U.S.A.,2013,Mexico,70,4,2.75
+Madre,U.S.A.,2013,Brazil,70,4,3.5
+Madre,U.S.A.,2017,Solomon Islands,73,2,3.5
+Maglio,Italy,2008,Tanzania,75,4,2
+Maglio,Italy,2008,Ecuador,70,4,3
+Maglio,Italy,2008,Cuba,70,5,3.25
+Maglio,Italy,2008,Dominican Republic,70,5,3.75
+Majani,Italy,2010,Ecuador,70,4,2
+Malagasy (Chocolaterie Robert),Madagascar,2007,Madagascar,75,4,2.75
+Malagasy (Chocolaterie Robert),Madagascar,2007,Madagascar,73,4,3.5
+Malagos,Philippines,2013,Philippines,65,5,3.5
+Malai,Thailand,2018,Thailand,70,3,2.75
+Malie Kai (Guittard),U.S.A.,2009,U.S.A.,55,5,2.75
+Malie Kai (Guittard),U.S.A.,2010,U.S.A.,55,5,3.5
+Malmo,Sweden,2016,Venezuela,70,3,3
+Mana,U.S.A.,2012,Dominican Republic,74,3,3.75
+Mana,U.S.A.,2014,Peru,74,3,2.5
+Mana,U.S.A.,2014,Venezuela,74,3,2.75
+Mana,U.S.A.,2015,Ecuador,74,2,2.5
+Manifesto Cacao,Colombia,2014,Colombia,70,4,2.75
+Manoa,U.S.A.,2012,U.S.A.,72,3,2.75
+Manoa,U.S.A.,2012,Peru,72,3,3
+Manoa,U.S.A.,2012,Liberia,72,3,3.25
+Manoa,U.S.A.,2012,U.S.A.,72,3,3.25
+Manoa,U.S.A.,2013,U.S.A.,72,3,3.75
+Manoa,U.S.A.,2015,Papua New Guinea,72,3,3.5
+Manoa,U.S.A.,2015,Costa Rica,72,3,3.75
+Manoa,U.S.A.,2017,Peru,70,3,3.25
+Manoa,U.S.A.,2019,U.S.A.,70,3,3.5
+Manufaktura Czekolady,Poland,2012,Dominican Republic,70,2,3.25
+Manufaktura Czekolady,Poland,2012,Ecuador,70,2,3.25
+Manufaktura Czekolady,Poland,2012,Ghana,70,2,3.5
+Manufaktura Czekolady,Poland,2014,Colombia,85,2,3.5
+Manufaktura Czekolady,Poland,2014,Venezuela,70,2,3.75
+Manufaktura Czekolady,Poland,2016,Peru,70,3,3.5
+Manufaktura Czekolady,Poland,2016,Nicaragua,70,3,3.75
+Map Chocolate,U.S.A.,2015,Trinidad,70,3,2.75
+Map Chocolate,U.S.A.,2015,Colombia,75,3,2.75
+Map Chocolate,U.S.A.,2015,Tanzania,72,3,3
+Map Chocolate,U.S.A.,2015,Dominican Republic,70,3,3.5
+Map Chocolate,U.S.A.,2015,Peru,62,3,3.5
+Map Chocolate,U.S.A.,2015,Ecuador,70,3,3.5
+Map Chocolate,U.S.A.,2015,Nicaragua,70,3,3.5
+Map Chocolate,U.S.A.,2015,Peru,68,3,3.5
+Map Chocolate,U.S.A.,2015,Honduras,78,3,3.5
+Map Chocolate,U.S.A.,2016,Vietnam,75,3,3.25
+Map Chocolate,U.S.A.,2017,Vietnam,73,2,3
+Map Chocolate,U.S.A.,2018,Blend,72,3,3
+Map Chocolate,U.S.A.,2018,Mexico,72,3,3.25
+Map Chocolate,U.S.A.,2018,Dominican Republic,72,3,3.5
+Marana,Peru,2016,Peru,70,3,2.75
+Marana,Peru,2021,Peru,80,3,3.25
+Marana,Peru,2021,Peru,70,3,3.5
+Maribea,U.S.A.,2021,Mexico,72,3,2.75
+Maribea,U.S.A.,2021,Bolivia,72,3,2.75
+Maribea,U.S.A.,2021,Brazil,72,3,3.25
+Marigold's Finest,Canada,2016,Blend,75,2,3.25
+Markham & Fitz,U.S.A.,2018,Haiti,75,2,2.75
+Marou,Vietnam,2012,Vietnam,80,3,3
+Marou,Vietnam,2012,Vietnam,76,3,3.5
+Marou,Vietnam,2012,Vietnam,72,3,3.5
+Marou,Vietnam,2012,Vietnam,70,3,3.5
+Marou,Vietnam,2012,Vietnam,78,3,3.5
+Marou,Vietnam,2012,Vietnam,74,3,3.5
+Marou,Vietnam,2013,Vietnam,75,3,3.5
+Marou,Vietnam,2015,Vietnam,85,2,3.25
+Marou,Vietnam,2015,Vietnam,68,2,3.5
+Marou,Vietnam,2015,Vietnam,70,2,3.75
+Marou,Vietnam,2018,Vietnam,75,3,3.5
+Mars,U.S.A.,2010,Costa Rica,65,NA,3
+Mars,U.S.A.,2010,Ivory Coast,65,NA,3
+Mars,U.S.A.,2010,Nigeria,65,NA,3.25
+Mars,U.S.A.,2010,Ghana,65,NA,3.5
+Marsatta,U.S.A.,2013,Dominican Republic,74,4,2.25
+Marsatta,U.S.A.,2013,Dominican Republic,89,4,2.5
+Martin Mayer,Austria,2016,Bolivia,76,3,2.75
+Martin Mayer,Austria,2016,Haiti,82,3,3
+Martin Mayer,Austria,2016,Colombia,74,3,3.25
+Mast Brothers,U.S.A.,2010,Venezuela,81,2,2.75
+Mast Brothers,U.S.A.,2010,Venezuela,75,2,3
+Mast Brothers,U.S.A.,2010,Dominican Republic,70,2,3.25
+Mast Brothers,U.S.A.,2011,Venezuela,81,2,2.75
+Mast Brothers,U.S.A.,2011,Papua New Guinea,71,2,2.75
+Mast Brothers,U.S.A.,2011,Venezuela,76,2,3
+Mast Brothers,U.S.A.,2011,Venezuela,70,2,3
+Mast Brothers,U.S.A.,2011,Peru,75,2,3
+Mast Brothers,U.S.A.,2011,Dominican Republic,73,2,3.25
+Mast Brothers,U.S.A.,2011,Blend,72,2,3.5
+Mast Brothers,U.S.A.,2011,Belize,70,2,3.5
+Mast Brothers,U.S.A.,2011,Dominican Republic,74,2,3.75
+Mast Brothers,U.S.A.,2012,Blend,72,2,2.5
+Mast Brothers,U.S.A.,2012,Venezuela,73,2,2.75
+Mast Brothers,U.S.A.,2012,Blend,73,2,3.5
+Mast Brothers,U.S.A.,2014,Blend,75,2,3.75
+Mast Brothers,U.S.A.,2015,Guatemala,76,2,3
+Mast Brothers,U.S.A.,2015,Tanzania,74,2,3.25
+Matale,Australia,2013,Vanuatu,72,3,3.5
+Matale,Australia,2013,Blend,70,3,3.75
+Matale,Australia,2013,Madagascar,68,3,4
+Matale,Australia,2013,Papua New Guinea,74,3,4
+Maui Kuia,U.S.A.,2021,U.S.A.,70,3,3.5
+Maverick,U.S.A.,2014,Belize,70,2,3.25
+Maverick,U.S.A.,2014,Dominican Republic,70,2,3.25
+Maverick,U.S.A.,2014,Peru,82,2,3.25
+Maverick,U.S.A.,2014,Peru,63,3,3.5
+Maverick,U.S.A.,2020,U.S.A.,70,3,3
+Maverick,U.S.A.,2020,Vietnam,75,3,3
+Maverick,U.S.A.,2020,Madagascar,65,3,3.25
+Mayacama,U.S.A.,2016,Dominican Republic,72,2,3
+McGuire,Canada,2020,Guatemala,70,3,2.5
+McGuire,Canada,2020,Belize,70,3,3.25
+Meadowlands,U.S.A.,2014,Bolivia,70,2,2.5
+Meadowlands,U.S.A.,2014,Venezuela,70,2,2.75
+Meadowlands,U.S.A.,2014,Belize,70,2,3
+Meadowlands,U.S.A.,2014,Nicaragua,70,2,3
+Meadowlands,U.S.A.,2014,Dominican Republic,70,2,3.5
+Mellow,Denmark,2019,Ecuador,85,2,2.5
+Mellow,Denmark,2019,Dominican Republic,70,2,2.75
+Mellow,Denmark,2019,Philippines,70,2,3.25
+Mellow,Denmark,2019,Tanzania,70,2,3.25
+Menakao (aka Cinagra),Madagascar,2012,Madagascar,80,4,2.5
+Menakao (aka Cinagra),Madagascar,2012,Madagascar,72,4,2.5
+Mesocacao,Honduras,2014,Honduras,80,3,3.25
+Mesocacao,Honduras,2014,Nicaragua,70,3,3.25
+Mesocacao,Honduras,2014,Honduras,70,3,3.5
+Mesocacao,Honduras,2014,Nicaragua,80,3,3.5
+Mesocacao,Honduras,2015,El Salvador,80,3,2.75
+Mesocacao,Honduras,2015,El Salvador,70,3,3
+Mestico,Brazil,2018,Brazil,75,3,2.5
+Metiisto,Sweden,2014,Brazil,70,3,3
+Metiisto,Sweden,2014,Madagascar,72,3,3.5
+Metiisto,Australia,2018,Solomon Islands,72,3,3.25
+Metiisto,Australia,2018,Solomon Islands,67,3,3.75
+Metropolitan,Amsterdam,2015,Blend,70,3,3.5
+Meybol,Germany,2018,Peru,70,3,3.5
+Michel Cluizel,France,2006,Blend,60,4,2
+Michel Cluizel,France,2006,Blend,85,4,2
+Michel Cluizel,France,2006,Blend,99,4,2
+Michel Cluizel,France,2006,Sao Tome,70,4,3
+Michel Cluizel,France,2006,Dominican Republic,67,4,3.75
+Michel Cluizel,France,2006,Madagascar,65,4,3.75
+Michel Cluizel,France,2006,Papua New Guinea,64,4,3.75
+Michel Cluizel,France,2007,Venezuela,66,4,3.5
+Michel Cluizel,France,2007,Sao Tome,67,4,3.5
+Michel Cluizel,France,2012,Mexico,66,4,3.75
+Michel Cluizel,France,2017,Colombia,69,4,3.25
+Michel Cluizel,France,2019,Brazil,70,4,3
+Michel Cluizel,France,2019,Guatemala,70,4,3.5
+Middlebury,U.S.A.,2012,Blend,65,4,1.5
+Middlebury,U.S.A.,2012,Bolivia,75,4,2
+Middlebury,U.S.A.,2012,Indonesia,70,4,2.5
+Middlebury,U.S.A.,2013,Dominican Republic,75,3,2.5
+Middlebury,U.S.A.,2013,Belize,80,4,3.25
+Middlebury,U.S.A.,2015,Tanzania,75,3,3.25
+Middlebury,U.S.A.,2015,Belize,80,3,3.5
+Middlebury,U.S.A.,2015,Trinidad,70,3,3.5
+Middlebury,U.S.A.,2015,Nicaragua,70,3,3.5
+Middlebury,U.S.A.,2015,Dominican Republic,75,3,3.75
+Middlebury,U.S.A.,2015,Venezuela,75,3,3.75
+Mike & Becky,Belgium,2018,Dominican Republic,70,3,3
+Mike & Becky,Belgium,2018,India,70,3,3.25
+Mike & Becky,Belgium,2018,Peru,70,3,3.25
+Mike & Becky,Belgium,2018,Belize,70,3,3.5
+Millcreek Cacao Roasters,U.S.A.,2012,Ecuador,70,4,3.5
+Millcreek Cacao Roasters,U.S.A.,2013,Ecuador,70,4,2.5
+Millesime,Belgium,2019,Ecuador,70,3,3
+Millesime,Belgium,2019,India,74,3,3
+Millesime,Belgium,2019,Brazil,76,3,3
+Millesime,Belgium,2021,Panama,75,3,2.75
+Millesime,Belgium,2021,India,74,3,3
+Millesime,Belgium,2021,Tanzania,90,3,3
+Milton,Japan,2018,Brazil,70,2,3
+Milton,Japan,2018,Vietnam,70,2,3.25
+Milton,Japan,2018,Madagascar,70,2,3.5
+Milton,Japan,2018,Peru,70,2,3.75
+Mindo,U.S.A.,2010,Ecuador,77,3,2.75
+Mindo,U.S.A.,2019,Ecuador,67,3,2.75
+Minimal,Japan,2016,Haiti,70,2,3.5
+Mirzam,U.A.E.,2017,Papua New Guinea,72,2,3
+Mirzam,U.A.E.,2017,Madagascar,72,2,3.25
+Mirzam,U.A.E.,2017,India,65,3,3.5
+Mirzam,U.A.E.,2017,Vietnam,65,2,3.5
+Mirzam,U.A.E.,2019,Tanzania,72,3,3.75
+Misina,Czech Republic,2020,Vietnam,70,3,3.5
+Mission,Brazil,2015,Brazil,70,2,3.5
+Mission,Brazil,2016,Brazil,75,2,3.75
+Mission,Brazil,2019,Puerto Rico,70,3,3
+Mita,Colombia,2012,Colombia,65,NA,2.5
+Moho,U.S.A.,2010,Belize,67,3,2.75
+Moho,U.S.A.,2013,Belize,72,3,3
+Moho,U.S.A.,2013,Belize,73,3,3.25
+Moka Origins,U.S.A.,2018,Brazil,72,3,2.5
+Moka Origins,U.S.A.,2018,Cameroon,68,2,3
+Moka Origins,U.S.A.,2019,Sierra Leone,72,3,3
+Moka Origins,U.S.A.,2019,Dominican Republic,70,2,3.5
+Moka Origins,U.S.A.,2019,Tanzania,72,2,3.75
+Moku,U.S.A.,2021,Madagascar,70,3,2.75
+Moku,U.S.A.,2021,Dominican Republic,70,3,3.25
+Molucca,U.S.A.,2015,Indonesia,70,2,2.75
+Molucca,U.S.A.,2015,Dominican Republic,70,2,3
+Molucca,U.S.A.,2015,Peru,70,2,3.25
+Momotombo,Nicaragua,2011,Nicaragua,70,2,2.75
+Momotombo,Nicaragua,2011,Nicaragua,70,2,2.75
+Momotombo,Nicaragua,2018,Nicaragua,70,3,3.25
+Monarque,Canada,2016,Dominican Republic,72,2,3.5
+Monarque,Canada,2021,Philippines,76,3,3.5
+Monsieur Truffe,Australia,2014,Papua New Guinea,70,NA,3.25
+Monsoon,U.S.A.,2018,Mexico,70,3,3.25
+Monsoon,U.S.A.,2021,Peru,72,3,3.5
+Monsoon,U.S.A.,2021,Ecuador,75,2,3.75
+Montecristi,Ecuador,2015,Ecuador,70,NA,3.25
+Montecristi,Ecuador,2015,Ecuador,63,NA,3.5
+Montecristi,Ecuador,2015,Ecuador,85,NA,3.5
+MUCHO,Mexico,2020,Mexico,70,3,3
+Muchomas (Mesocacao),U.S.A.,2015,Nicaragua,70,3,3.5
+Muchomas (Mesocacao),U.S.A.,2015,Nicaragua,80,3,3.5
+Musee du Chocolat Theobroma,Japan,2018,Venezuela,70,2,3.5
+Mutari,U.S.A.,2016,Dominican Republic,71,2,2.75
+Mutari,U.S.A.,2016,Tanzania,68,2,2.75
+Mutari,U.S.A.,2016,Madagascar,68,2,2.75
+Mutari,U.S.A.,2016,Vietnam,80,2,3
+Nahua,Costa Rica,2013,Costa Rica,58,3,2.5
+Nahua,Costa Rica,2013,Costa Rica,70,3,3
+Naive,Lithuania,2012,Grenada,71,4,2.5
+Naive,Lithuania,2013,Blend,70,4,3.75
+Naive,Lithuania,2013,Peru,78,4,3.75
+Naive,Lithuania,2014,Venezuela,75,4,2.75
+Naive,Lithuania,2014,Venezuela,70,4,3
+Naive,Lithuania,2014,Nicaragua,70,4,3.25
+Naive,Lithuania,2019,Nicaragua,67,3,2.75
+Naive,Lithuania,2019,El Salvador,70,3,3.25
+Nanea,U.S.A.,2013,U.S.A.,85,NA,3.5
+Nathan Miller,U.S.A.,2014,Peru,72,2,2.25
+Nathan Miller,U.S.A.,2014,Dominican Republic,70,2,2.5
+Nathan Miller,U.S.A.,2014,Madagascar,73.5,2,2.5
+Nathan Miller,U.S.A.,2014,Ghana,70,3,3.5
+Nearynogs,Ireland,2018,Dominican Republic,70,2,3.25
+Neuhaus (Callebaut),Belgium,2006,Blend,73,5,2
+Neuhaus (Callebaut),Belgium,2006,Sao Tome,75,5,2.75
+Neuhaus (Callebaut),Belgium,2006,Venezuela,71,5,3
+Neuhaus (Callebaut),Belgium,2007,Blend,73,5,1
+Neuhaus (Callebaut),Belgium,2008,Trinidad,67,5,3.75
+Neuhaus (Callebaut),Belgium,2010,Papua New Guinea,70,5,2.5
+Nibble,U.S.A.,2015,Venezuela,72,2,2.25
+Nibble,U.S.A.,2015,Dominican Republic,72,2,2.75
+Nibble,U.S.A.,2015,Madagascar,72,2,3
+Nibble,U.S.A.,2015,Peru,72,2,3
+Nibble,U.S.A.,2018,Brazil,72,2,3
+Night Owl,U.S.A.,2013,Peru,75,3,2.75
+Night Owl,U.S.A.,2013,Ecuador,75,3,3.5
+Nikoa,Ecuador,2019,Ecuador,72,3,3.75
+Nina,Peru,2018,Peru,70,3,3
+Ninth (9th) & Larkin,U.S.A.,2018,Vietnam,72,3,2.75
+Ninth (9th) & Larkin,U.S.A.,2018,Tanzania,72,3,3
+Ninth (9th) & Larkin,U.S.A.,2018,Dominican Republic,72,3,3
+Ninth (9th) & Larkin,U.S.A.,2019,Fiji,74,3,2.75
+Ninth (9th) & Larkin,U.S.A.,2019,Colombia,72,3,3.25
+Noble Bean aka Jerjobo,U.S.A.,2014,Ghana,75,4,3
+Noble Bean aka Jerjobo,U.S.A.,2014,Belize,75,4,3
+Noble Bean aka Jerjobo,U.S.A.,2014,Peru,75,4,3.25
+Noir d' Ebine,U.S.A.,2012,Venezuela,70,NA,3
+Noir d' Ebine,U.S.A.,2012,Ecuador,70,NA,3
+Nova Monda,Nicaragua,2012,Nicaragua,75,2,2.75
+Nova Monda,Nicaragua,2012,Nicaragua,70,2,3
+Nova Monda,Nicaragua,2012,Ecuador,80,2,3.25
+Nuance,U.S.A.,2015,Ecuador,70,2,2.75
+Nuance,U.S.A.,2015,Venezuela,70,2,3
+Nuance,U.S.A.,2015,Madagascar,70,2,3.5
+Nuance,U.S.A.,2015,Ghana,70,2,3.75
+Nuance,U.S.A.,2015,Dominican Republic,70,2,3.75
+Nuance,U.S.A.,2020,Nigeria,70,3,3
+Nuance,U.S.A.,2020,Vietnam,70,3,3.25
+Nugali,Brazil,2016,Brazil,70,3,3.5
+Oakland Chocolate Co.,U.S.A.,2010,Jamaica,70,5,2.5
+Obolo,Chile,2015,Peru,70,2,3.75
+Obolo,Chile,2019,Peru,70,2,3.75
+Ocelot,Scotland,2015,Congo,70,3,3.75
+Ocelot,Scotland,2015,Peru,75,3,4
+Ocho,New Zealand,2014,Papua New Guinea,66,2,2.75
+Ocho,New Zealand,2014,Papua New Guinea,70,2,3
+Ocho,New Zealand,2014,Papua New Guinea,88,2,3.25
+Ocho,New Zealand,2014,Papua New Guinea,74,2,3.5
+Ocho,New Zealand,2016,Samoa,100,1,2.75
+Ocho,New Zealand,2016,Samoa,70,2,3.5
+Odyssey,U.S.A.,2020,Guatemala,70,2,3
+Odyssey,U.S.A.,2020,Tanzania,70,2,3
+Odyssey,U.S.A.,2020,Uganda,70,2,3.25
+Odyssey,U.S.A.,2020,India,70,2,3.25
+Odyssey,U.S.A.,2020,Colombia,70,2,3.25
+Odyssey,U.S.A.,2020,Bolivia,70,2,3.75
+Odyssey,U.S.A.,2020,Vietnam,70,2,3.75
+Odyssey,U.S.A.,2021,Blend,100,1,3
+Odyssey,U.S.A.,2021,Venezuela,80,2,3
+Odyssey,U.S.A.,2021,U.S.A.,70,2,3.25
+Odyssey,U.S.A.,2021,Peru,70,2,3.25
+Odyssey,U.S.A.,2021,Venezuela,70,2,3.5
+Odyssey,U.S.A.,2021,Haiti,70,2,3.75
+Ohiyo,U.S.A.,2015,Trinidad,70,3,2.75
+Ohiyo,U.S.A.,2015,Tanzania,70,3,3
+Oialla by Bojessen (Malmo),Germany,2011,Bolivia,70,2,3.5
+Oialla by Bojessen (Malmo),Germany,2018,Brazil,78,3,3.75
+Olive and Sinclair,U.S.A.,2009,Blend,67,3,2.75
+Olive and Sinclair,U.S.A.,2009,Blend,75,3,3
+Olive and Sinclair,U.S.A.,2010,Dominican Republic,72,3,3
+Olive and Sinclair,U.S.A.,2010,Ghana,72,3,3
+Olivia,Canada,2011,Blend,76,5,2
+Olivia,Canada,2011,Blend,76,5,2.75
+Olivia,Canada,2011,Blend,85,5,2.75
+Olivia,Canada,2011,Blend,85,5,3
+Omanhene,Ghana,2011,Ghana,80,4,2.75
+Omnom,Iceland,2014,Papua New Guinea,70,3,3
+Omnom,Iceland,2014,Madagascar,66,3,3.5
+Omnom,Iceland,2016,Tanzania,70,3,3.75
+Omnom,Iceland,2018,Nicaragua,73,3,3
+Or Dubh,U.S.A.,2020,Madagascar,70,2,3.25
+Or Dubh,U.S.A.,2020,Vietnam,70,2,3.25
+Or Dubh,U.S.A.,2020,Tanzania,70,2,3.5
+Orfeve,Switzerland,2021,Colombia,75,3,2.75
+Orfeve,Switzerland,2021,Peru,70,3,3.25
+Orfeve,Switzerland,2021,Peru,75,3,3.25
+Orfeve,Switzerland,2021,Madagascar,75,3,3.5
+organicfair,Canada,2013,Belize,74,3,2.75
+organicfair,Canada,2013,Dominican Republic,72,3,2.75
+organicfair,Canada,2013,Nicaragua,72,3,2.75
+organicfair,Canada,2013,Dominican Republic,72,3,3
+organicfair,Canada,2013,Ecuador,72,3,3
+organicfair,South Africa,2018,Panama,71,3,3
+Original Beans (Felchlin),Switzerland,2009,Congo,70,3,3
+Original Beans (Felchlin),Switzerland,2009,Peru,75,3,3
+Original Beans (Felchlin),Switzerland,2009,Bolivia,68,3,3.25
+Original Beans (Felchlin),Switzerland,2011,Bolivia,66,3,3.75
+Original Beans (Felchlin),Switzerland,2014,Papua New Guinea,68,3,2.75
+Original Beans (Felchlin),Switzerland,2014,Blend,80,2,3.25
+Original Hawaiin Chocolate Factory,U.S.A.,2006,U.S.A.,60,5,3
+Original Hawaiin Chocolate Factory,U.S.A.,2009,U.S.A.,60,5,3
+Orquidea,Peru,2012,Peru,65,4,3
+Orquidea,Peru,2012,Peru,72,4,3
+Pacari,Ecuador,2008,Ecuador,100,NA,2
+Pacari,Ecuador,2008,Ecuador,60,4,2.75
+Pacari,Ecuador,2008,Ecuador,72,4,3
+Pacari,Ecuador,2008,Ecuador,65,4,3
+Pacari,Ecuador,2008,Ecuador,70,4,3.5
+Pacari,Ecuador,2011,Ecuador,70,4,3.5
+Pacari,Ecuador,2012,Ecuador,85,4,2.75
+Pacari,Ecuador,2012,Peru,70,4,4
+Pacari,Ecuador,2014,Ecuador,70,4,3.25
+Pacari,Ecuador,2014,Ecuador,70,4,3.5
+Pacari,Ecuador,2014,Ecuador,70,4,3.75
+Pacari,Ecuador,2014,Ecuador,70,4,4
+Pacari,Ecuador,2016,Colombia,70,4,4
+Palet D'Or,Japan,2018,Vietnam,72,5,3.25
+Palet D'Or,Japan,2018,Haiti,70,5,3.5
+Palet D'Or,Japan,2018,Cuba,72,5,3.75
+Palette de Bine,Canada,2014,Bolivia,72,2,2.75
+Palette de Bine,Canada,2014,Ecuador,75,2,2.75
+Palette de Bine,Canada,2014,Blend,75,2,3.5
+Palette de Bine,Canada,2014,Madagascar,78,2,3.75
+Palette de Bine,Canada,2014,Trinidad,70,2,3.75
+Palette de Bine,Canada,2015,Bolivia,70,2,3.25
+Palette de Bine,Canada,2015,Trinidad,70,2,3.25
+Palette de Bine,Canada,2015,Tanzania,72,2,3.5
+Palette de Bine,Canada,2015,Vietnam,72,2,3.75
+Palette de Bine,Canada,2016,Guatemala,70,2,2.75
+Palette de Bine,Canada,2016,Belize,72,2,3
+Palette de Bine,Canada,2017,Peru,72,2,2.75
+Palette de Bine,Canada,2017,Dominican Republic,75,2,2.75
+Palette de Bine,Canada,2017,Haiti,70,2,3.5
+Palette de Bine,Canada,2019,Peru,70,2,3.5
+Pangea,Spain,2016,Fiji,76,2,3
+Pangea,Spain,2019,Bolivia,76,2,2.75
+Pangea,Spain,2019,Philippines,76,2,3
+Pangea,Spain,2019,Belize,75,2,3.25
+Pangea,Spain,2019,Madagascar,76,2,3.25
+Pangea,Spain,2019,Dominican Republic,76,2,3.25
+Pangea,Spain,2019,Peru,71,2,3.5
+Park 75,U.S.A.,2014,Blend,65,3,3.5
+Parliament,U.S.A.,2014,Bolivia,70,2,3
+Parliament,U.S.A.,2014,Dominican Republic,70,2,3.5
+Parliament,U.S.A.,2015,Guatemala,70,2,3.5
+Parliament,U.S.A.,2016,Tanzania,70,2,3.25
+Parre Chocolat,U.S.A.,2019,Guatemala,75,3,2.75
+Parre Chocolat,U.S.A.,2019,Dominican Republic,75,3,2.75
+Parre Chocolat,U.S.A.,2019,Colombia,75,3,3
+Pascha,Peru,2013,Peru,55,4,2.5
+Pascha,Peru,2013,Peru,70,4,2.75
+Patric,U.S.A.,2007,Madagascar,70,3,4
+Patric,U.S.A.,2009,Madagascar,67,3,3.5
+Patric,U.S.A.,2009,Venezuela,70,3,3.5
+Patric,U.S.A.,2009,Madagascar,75,3,4
+Patric,U.S.A.,2011,Blend,70,3,3.75
+Patric,U.S.A.,2013,Peru,67,3,4
+Paul Young,U.K.,2014,Madagascar,73,2,2.25
+Paul Young,U.K.,2014,Madagascar,64,2,2.75
+Peppalo,U.S.A.,2015,Dominican Republic,82,3,3
+Perrenial,U.S.A.,2018,Fiji,75,3,3
+Petite Patrie,Canada,2019,Peru,70,4,3.25
+Pierre Marcolini,Belgium,2006,Indonesia,72,5,3
+Pierre Marcolini,Belgium,2006,Venezuela,72,5,3.75
+Pierre Marcolini,Belgium,2006,Mexico,72,5,4
+Pierre Marcolini,Belgium,2007,Blend,85,5,3.5
+Pierre Marcolini,Belgium,2007,Ecuador,72,5,3.75
+Pierre Marcolini,Belgium,2007,Blend,70,5,4
+Pierre Marcolini,Belgium,2007,Madagascar,72,5,4
+Pierre Marcolini,Belgium,2009,Brazil,72,5,3
+Pierre Marcolini,Belgium,2009,Mexico,72,5,3
+Pierre Marcolini,Belgium,2010,Venezuela,75,5,3
+Pierre Marcolini,Belgium,2010,Peru,85,5,3
+Pierre Marcolini,Belgium,2010,Trinidad,75,5,3.25
+Pierre Marcolini,Belgium,2010,Cuba,78,5,3.75
+Pierre Marcolini,Belgium,2015,Cameroon,70,5,3.25
+Pierre Marcolini,Belgium,2019,Madagascar,76,4,3
+Pierre Marcolini,Belgium,2019,Cameroon,70,4,3
+Pierre Marcolini,Belgium,2021,China,72,4,3.5
+Piety and Desire,U.S.A.,2020,Vietnam,70,3,3
+Piety and Desire,U.S.A.,2020,Tanzania,70,3,3.5
+Piety and Desire,U.S.A.,2020,India,73,3,3.5
+Pinellas,U.S.A.,2016,Honduras,80,4,2.5
+Pitch Dark,U.S.A.,2014,Fiji,73,2,2.5
+Pitch Dark,U.S.A.,2014,Madagascar,73,2,3.25
+Pitch Dark,U.S.A.,2014,Ecuador,73,2,3.25
+Pitch Dark,U.S.A.,2014,Ecuador,73,2,3.5
+Pitch Dark,U.S.A.,2015,Nicaragua,62,3,2.5
+Pitch Dark,U.S.A.,2015,Nicaragua,80,2,2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,80,3,2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,80,3,2.75
+Pitch Dark,U.S.A.,2015,Nicaragua,80,2,3.25
+Pollinator,U.S.A.,2020,Bolivia,70,3,3
+Pollinator,U.S.A.,2020,Dominican Republic,70,3,3
+Pollinator,U.S.A.,2020,Tanzania,70,3,3.25
+Pomm (aka Dead Dog),U.S.A.,2012,Dominican Republic,76,3,2.5
+Pomm (aka Dead Dog),U.S.A.,2012,Peru,82,3,2.75
+Poppy and Peep,U.S.A.,2021,Haiti,71,3,2.75
+Poppy and Peep,U.S.A.,2021,Guatemala,76,3,3
+Poppy and Peep,U.S.A.,2021,Ghana,66,3,3
+Potomac,U.S.A.,2010,Costa Rica,82,2,3.75
+Potomac,U.S.A.,2011,Peru,70,2,2.75
+Potomac,U.S.A.,2011,Costa Rica,70,2,3
+Potomac,U.S.A.,2011,Costa Rica,70,2,3.5
+Potomac,U.S.A.,2011,Brazil,70,2,3.5
+Potomac,U.S.A.,2014,Venezuela,70,2,3.75
+Potomac,U.S.A.,2016,Dominican Republic,70,2,3.75
+Potomac,U.S.A.,2018,Colombia,70,2,4
+Potomac,U.S.A.,2021,Uganda,75,2,3.75
+Potomac,U.S.A.,2021,Peru,70,2,3.75
+Pralus,France,2006,Vanuatu,75,4,3
+Pralus,France,2006,Cuba,75,4,3
+Pralus,France,2006,Blend,75,4,3
+Pralus,France,2006,Brazil,75,4,3
+Pralus,France,2006,Blend,75,4,3.5
+Pralus,France,2006,Jamaica,75,4,3.75
+Pralus,France,2006,Ecuador,80,4,3.75
+Pralus,France,2007,Sao Tome,75,4,4
+Pralus,France,2008,Dominican Republic,75,4,2
+Pralus,France,2008,Madagascar,100,2,3
+Pralus,France,2008,Brazil,75,4,3.5
+Pralus,France,2009,Venezuela,75,4,2
+Pralus,France,2010,Venezuela,75,4,3.5
+Pralus,France,2011,Venezuela,75,4,3.25
+Pralus,France,2015,Peru,75,3,3.25
+Pralus,France,2019,Papua New Guinea,75,4,3
+Pralus,France,2019,Indonesia,75,4,3
+Pralus,France,2019,Venezuela,75,4,3
+Pralus,France,2019,Madagascar,75,4,3
+Pralus,France,2019,Colombia,75,4,3
+Pralus,France,2019,Trinidad,75,4,3.25
+Pralus,France,2019,Ghana,75,4,3.25
+Pralus,France,2019,Sao Tome & Principe,75,4,3.5
+Pralus,France,2019,Tanzania,75,4,3.5
+Pralus,France,2019,Ecuador,75,4,3.5
+Primo Botanica,U.S.A.,2018,Tanzania,75,2,3.25
+Primo Botanica,U.S.A.,2018,Peru,75,2,3.25
+Public Chocolatory,South Korea,2019,Vietnam,70,2,2.75
+Pump Street Bakery,U.K.,2014,Venezuela,75,3,2.75
+Pump Street Bakery,U.K.,2014,Ecuador,85,3,2.75
+Pump Street Bakery,U.K.,2014,Ecuador,75,3,3
+Pump Street Bakery,U.K.,2014,Madagascar,72,3,3.25
+Pump Street Bakery,U.K.,2015,Honduras,80,3,2.75
+Pump Street Bakery,U.K.,2015,Grenada,70,3,3.5
+Pump Street Bakery,U.K.,2015,Madagascar,74,3,3.5
+Pump Street Bakery,U.K.,2016,Ecuador,77,3,3.5
+Pump Street Bakery,U.K.,2017,Jamaica,75,2,3.75
+Pump Street Bakery,U.K.,2018,Solomon Islands,72,3,3.25
+Pura Delizia,Italy,2012,Venezuela,73,4,2.75
+Pura Delizia,Italy,2017,Ecuador,73,4,3.25
+Pura Delizia,Italy,2017,Papua New Guinea,75,4,3.25
+Pura Delizia,Italy,2017,Vietnam,75,4,3.5
+Pura Delizia,Italy,2017,Philippines,66,4,3.5
+Pura Delizia,Italy,2017,Dominican Republic,65,4,3.75
+Q Chocolate,Brazil,2012,Brazil,60,3,3
+Q Chocolate,Brazil,2012,Brazil,65,3,3.25
+Q Chocolate,Brazil,2013,Brazil,55,3,2.75
+Q Chocolate,Brazil,2013,Brazil,75,3,3.25
+Q Chocolate,Brazil,2013,Brazil,80,3,3.25
+Q Chocolate,Brazil,2013,Brazil,85,3,3.5
+Qantu,Canada,2018,Peru,70,3,3
+Qantu,Canada,2019,Peru,70,3,3.75
+Qantu,Canada,2020,Peru,70,3,3.5
+Qantu,Canada,2020,Peru,70,3,4
+Qantu,Canada,2021,Peru,70,3,3.75
+Quetzalli (Wolter),Mexico,2016,Mexico,70,3,2.75
+Quetzalli (Wolter),Mexico,2016,Mexico,74,3,3
+Raaka,U.S.A.,2011,Dominican Republic,85,3,3.5
+Raaka,U.S.A.,2012,Madagascar,75,3,3.25
+Raaka,U.S.A.,2015,Congo,75,3,2.75
+Raaka,U.S.A.,2016,Peru,70,3,3
+Raaka,U.S.A.,2017,Haiti,70,3,3.25
+Raaka,U.S.A.,2017,Haiti,70,3,3.5
+Rain Republic,Guatemala,2010,Guatemala,70,5,2.75
+Rancho San Jacinto,Ecuador,2010,Ecuador,75,NA,3
+Ranger,U.S.A.,2015,Peru,70,2,2.5
+Ranger,U.S.A.,2015,Peru,80,2,3.25
+Ranger,U.S.A.,2015,Peru,73,2,3.5
+Ranger,U.S.A.,2021,Mexico,70,2,3.25
+Raoul Boulanger,France,2016,Peru,75,3,3.25
+Raphio,U.S.A.,2018,Ecuador,72,3,3.5
+Raphio,U.S.A.,2018,Tanzania,72,3,3.75
+Raphio,U.S.A.,2018,Peru,72,3,3.75
+Raphio,U.S.A.,2019,Dominican Republic,72,3,3.5
+Raphio,U.S.A.,2019,Nicaragua,72,3,3.5
+Raphio,U.S.A.,2021,Ghana,72,3,3.5
+Raw Cocoa,Poland,2012,Peru,70,NA,2.5
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,75,4,3
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,67,4,3.5
+Republica del Cacao (aka Confecta),Ecuador,2007,Ecuador,75,4,3.75
+Republica del Cacao (aka Confecta),Ecuador,2009,Ecuador,75,4,2.5
+Republica del Cacao (aka Confecta),Ecuador,2010,Ecuador,75,4,3.25
+Ritual,U.S.A.,2011,Costa Rica,75,2,3.5
+Ritual,U.S.A.,2012,Ecuador,75,2,3.25
+Ritual,U.S.A.,2012,Trinidad,75,2,3.5
+Ritual,U.S.A.,2012,Madagascar,75,2,4
+Ritual,U.S.A.,2013,Peru,75,2,3
+Ritual,U.S.A.,2013,Belize,75,2,3.75
+Ritual,U.S.A.,2015,Ecuador,85,2,3.5
+Ritual,U.S.A.,2015,Blend,70,2,3.5
+Ritual,U.S.A.,2016,Ecuador,75,2,3.75
+Ritual,U.S.A.,2017,Mexico,75,3,3.75
+Ritual,U.S.A.,2019,Nicaragua,70,2,3.5
+Ritual,U.S.A.,2019,Trinidad,80,2,3.5
+Ritual,U.S.A.,2020,Madagascar,75,3,3.5
+River-Sea,U.S.A.,2018,Tanzania,72,3,3
+River-Sea,U.S.A.,2019,Fiji,70,3,2.5
+River-Sea,U.S.A.,2019,Peru,70,3,2.5
+Roasting Masters,South Korea,2016,Costa Rica,70,2,3.25
+Roasting Masters,South Korea,2016,Costa Rica,70,2,3.25
+Roasting Masters,South Korea,2016,Costa Rica,70,2,3.25
+Robert (aka Chocolaterie Robert),Madagascar,2013,Madagascar,75,5,3.25
+Robert (aka Chocolaterie Robert),Madagascar,2013,Madagascar,68,4,3.25
+Rococo (Grenada Chocolate Co.),U.K.,2012,Grenada,66,NA,3.5
+Rogue,U.S.A.,2008,Dominican Republic,70,2,2.75
+Rogue,U.S.A.,2008,Jamaica,70,2,2.75
+Rogue,U.S.A.,2008,Madagascar,70,2,3
+Rogue,U.S.A.,2008,Trinidad,70,2,3
+Rogue,U.S.A.,2009,Venezuela,70,2,3.5
+Rogue,U.S.A.,2010,Peru,75,2,3.75
+Rogue,U.S.A.,2011,Bolivia,75,2,3
+Rogue,U.S.A.,2012,Ecuador,75,2,3.75
+Rogue,U.S.A.,2013,Madagascar,70,2,3.5
+Rogue,U.S.A.,2013,Dominican Republic,70,2,3.5
+Rogue,U.S.A.,2013,Jamaica,75,2,3.75
+Rogue,U.S.A.,2013,Bolivia,75,2,4
+Rogue,U.S.A.,2014,Venezuela,80,2,3.75
+Rogue,U.S.A.,2015,Bolivia,75,2,3.25
+Rogue,U.S.A.,2015,Venezuela,70,2,3.75
+Rogue,U.S.A.,2016,Honduras,75,2,3.75
+Rozsavolgyi,Hungary,2011,Venezuela,71,3,2.5
+Rozsavolgyi,Hungary,2011,Principe,77,3,2.75
+Rozsavolgyi,Hungary,2011,Venezuela,73,3,3.5
+Rozsavolgyi,Hungary,2011,Venezuela,70,3,3.5
+Rozsavolgyi,Hungary,2012,Venezuela,76,3,2.25
+Rozsavolgyi,Hungary,2012,Venezuela,84,3,2.5
+Rozsavolgyi,Hungary,2012,Madagascar,72,3,2.5
+Rozsavolgyi,Hungary,2017,Venezuela,73,3,3.75
+Rozsavolgyi,Hungary,2021,Peru,72,3,3.75
+Ruket,Italy,2017,Honduras,72,3,2.75
+Ruket,Italy,2018,Haiti,75,3,3
+Ruket,Italy,2018,Nicaragua,70,3,3.5
+Ruket,Italy,2021,Indonesia,77,2,2.75
+Ruket,Italy,2021,Tanzania,72,2,3.5
+S.A.I.D.,Italy,2010,Blend,100,NA,1.5
+S.A.I.D.,Italy,2010,Dominican Republic,70,NA,3
+S.A.I.D.,Italy,2010,Madagascar,64,NA,3.5
+S.A.I.D.,Italy,2010,Blend,72,NA,3.5
+S.A.I.D.,Italy,2010,Blend,72,NA,3.5
+Sacred,U.S.A.,2012,Blend,83,4,2.75
+Sacred,U.S.A.,2012,Blend,69,4,3.25
+Salgado,Argentina,2008,Brazil,70,4,3.5
+Salgado,Argentina,2008,Ecuador,70,4,3.5
+Salgado,Argentina,2008,Venezuela,70,4,3.5
+Salgado,Argentina,2008,Ecuador,70,4,3.5
+San Jose,Ecuador,2017,Ecuador,70,4,3.25
+Santander (Compania Nacional),Colombia,2006,Colombia,53,5,2
+Santander (Compania Nacional),Colombia,2006,Colombia,65,5,3
+Santander (Compania Nacional),Colombia,2006,Colombia,70,5,3.75
+Santander (Compania Nacional),Colombia,2009,Colombia,75,3,2.75
+Santander (Compania Nacional),Colombia,2009,Colombia,70,5,3
+Santome,France,2011,Sao Tome,70,5,2.75
+Scharffen Berger,U.S.A.,2006,Blend,82,5,2
+Scharffen Berger,U.S.A.,2006,Blend,68,5,2
+Scharffen Berger,U.S.A.,2006,Jamaica,70,5,2
+Scharffen Berger,U.S.A.,2006,Blend,62,5,3
+Scharffen Berger,U.S.A.,2006,Blend,70,5,3.5
+Scharffen Berger,U.S.A.,2007,Blend,72,5,3
+Scharffen Berger,U.S.A.,2007,Blend,62,5,3
+Scharffen Berger,U.S.A.,2007,Blend,75,5,3
+Scharffen Berger,U.S.A.,2007,Venezuela,75,5,3.75
+Scharffen Berger,U.S.A.,2008,Blend,72,5,3
+Scharffen Berger,U.S.A.,2009,Brazil,68,5,3.75
+Scharffen Berger,U.S.A.,2009,Vietnam,72,5,3.75
+Scharffen Berger,U.S.A.,2009,Ghana,65,5,4
+Scharffen Berger,U.S.A.,2010,Grenada,68,5,3.5
+Scharffen Berger,U.S.A.,2010,Madagascar,65,5,3.75
+Scharffen Berger,U.S.A.,2011,Papua New Guinea,68,5,3.75
+Scharffen Berger,U.S.A.,2012,Peru,78,4,4
+Seaforth,U.K.,2015,Dominican Republic,70,2,2.75
+Seaforth,U.K.,2015,Grenada,70,2,2.75
+Seahorse,U.S.A.,2018,Honduras,70,2,2.75
+Seahorse,U.S.A.,2018,Dominican Republic,70,2,3
+Seahorse,U.S.A.,2018,Tanzania,70,2,3.25
+Seahorse,U.S.A.,2019,Fiji,70,2,2.75
+Seahorse,U.S.A.,2019,Uganda,70,2,3.5
+Seahorse,U.S.A.,2021,Trinidad,75,2,3.25
+Seahorse,U.S.A.,2021,Peru,70,2,3.5
+Seahorse,U.S.A.,2021,Vietnam,70,2,3.5
+Seahorse,U.S.A.,2021,India,70,2,3.5
+Shane Chocolate Works,U.S.A.,2019,Guatemala,70,3,3
+Shane Chocolate Works,U.S.A.,2019,Colombia,70,3,3
+Shane Chocolate Works,U.S.A.,2019,Belize,70,3,3.5
+Shark Mountain,U.S.A.,2014,Ecuador,75,2,3
+Shark Mountain,U.S.A.,2014,Belize,72,2,3.25
+Shark Mountain,U.S.A.,2015,Venezuela,77,2,2.75
+Shark Mountain,U.S.A.,2015,Jamaica,72,2,3.25
+Shark Mountain,U.S.A.,2015,Papua New Guinea,73,2,3.5
+Shark Mountain,U.S.A.,2015,Dominican Republic,74,2,3.5
+Shark's,U.S.A.,2011,U.S.A.,73,4,2
+Shark's,U.S.A.,2011,U.S.A.,73,4,2.5
+Shattell,Peru,2011,Peru,75,3,3.5
+Shattell,Peru,2016,Peru,70,3,3.25
+Sibu,Costa Rica,2015,Costa Rica,82,3,3.25
+Sibu,Costa Rica,2015,Costa Rica,70,3,3.5
+Sibu Sura,U.S.A.,2012,Peru,70,NA,2.5
+Silvio Bessone,Italy,2011,Belize,67,4,3
+Silvio Bessone,Italy,2011,Colombia,68,4,3
+Silvio Bessone,Italy,2011,Sao Tome,65,4,3.25
+Silvio Bessone,Italy,2011,Brazil,60,4,3.25
+Sirene,Canada,2014,Madagascar,67,3,3.75
+Sirene,Canada,2014,Madagascar,73,3,3.75
+Sirene,Canada,2014,Ecuador,73,3,3.75
+Sirene,Canada,2015,Madagascar,100,1,3
+Sirene,Canada,2015,Ecuador,100,1,3
+Sirene,Canada,2015,Guatemala,73,2,3
+Sirene,Canada,2015,Guatemala,73,2,3.25
+Sirene,Canada,2015,Haiti,73,2,3.25
+Sirene,Canada,2016,Bolivia,73,2,3.5
+Sirene,Canada,2016,Tanzania,73,2,3.5
+Sirene,Canada,2016,Ecuador,73,2,3.75
+Sirene,Canada,2017,Peru,73,2,3.75
+Sirene,Canada,2021,Mexico,73,3,3
+Sirene,Canada,2021,India,73,3,3.25
+Sjolinds,U.S.A.,2015,Ghana,70,4,2.75
+Sjolinds,U.S.A.,2015,Nicaragua,72,3,3
+"Smooth Chocolator, The",Australia,2015,Bolivia,72,3,2.75
+"Smooth Chocolator, The",Australia,2015,Peru,67,3,3
+"Smooth Chocolator, The",Australia,2015,Madagascar,65,3,3.25
+"Smooth Chocolator, The",Australia,2015,Madagascar,70,3,3.5
+"Smooth Chocolator, The",Australia,2015,Papua New Guinea,65,3,3.5
+"Smooth Chocolator, The",Australia,2015,Tanzania,67,3,3.75
+"Smooth Chocolator, The",Australia,2015,Trinidad,70,3,3.75
+"Smooth Chocolator, The",Australia,2015,Venezuela,70,3,3.75
+"Smooth Chocolator, The",Australia,2015,Ecuador,72,3,4
+"Smooth Chocolator, The",Australia,2016,Vietnam,70,3,3
+"Smooth Chocolator, The",Australia,2016,Guatemala,70,3,3.25
+"Smooth Chocolator, The",Australia,2016,Venezuela,70,3,3.75
+"Smooth Chocolator, The",Australia,2016,Belize,70,3,3.75
+"Smooth Chocolator, The",Australia,2016,Australia,67,3,3.75
+"Smooth Chocolator, The",Australia,2016,Ecuador,70,3,4
+"Smooth Chocolator, The",Australia,2017,Dominican Republic,70,3,3.5
+"Smooth Chocolator, The",Australia,2017,Haiti,70,3,3.5
+Snake & Butterfly,U.S.A.,2010,Madagascar,68,3,3
+Snake & Butterfly,U.S.A.,2010,Ecuador,68,3,3.25
+Snake & Butterfly,U.S.A.,2011,Ghana,67,3,1.5
+Soeka,Amsterdam,2018,Sulawesi,66,3,3.25
+Soklet,India,2017,India,70,3,2.75
+Sol Cacao,U.S.A.,2015,Madagascar,72,2,3
+Sol Cacao,U.S.A.,2016,Ecuador,70,2,3.5
+Solkiki,U.K.,2016,Dominican Republic,85,2,2.75
+Solkiki,U.K.,2016,Peru,68,2,2.75
+Solkiki,U.K.,2019,Philippines,70,3,2.5
+Solomons Gold,New Zealand,2016,Solomon Islands,70,2,3.25
+Solomons Gold,New Zealand,2016,Solomon Islands,75,2,3.25
+Solstice,U.S.A.,2013,Madagascar,70,2,3
+Solstice,U.S.A.,2013,Venezuela,70,2,3
+Solstice,U.S.A.,2013,Bolivia,70,2,3.25
+Solstice,U.S.A.,2013,Peru,70,3,3.25
+Solstice,U.S.A.,2013,Blend,70,3,3.5
+Solstice,U.S.A.,2014,Uganda,70,3,3
+Solstice,U.S.A.,2017,Tanzania,70,3,3.25
+Solstice,U.S.A.,2018,India,70,3,3.25
+Solstice,U.S.A.,2021,Vietnam,70,3,3.5
+Soma,Canada,2009,Dominican Republic,70,3,3
+Soma,Canada,2009,Dominican Republic,70,3,3
+Soma,Canada,2009,Ghana,70,3,3.5
+Soma,Canada,2009,Papua New Guinea,70,3,3.5
+Soma,Canada,2009,Madagascar,70,3,3.75
+Soma,Canada,2009,Venezuela,70,3,3.75
+Soma,Canada,2010,Blend,70,3,3.75
+Soma,Canada,2011,Grenada,70,3,2.75
+Soma,Canada,2011,Bolivia,70,3,3.5
+Soma,Canada,2011,Venezuela,70,3,3.5
+Soma,Canada,2011,Dominican Republic,70,3,3.75
+Soma,Canada,2011,Blend,70,3,4
+Soma,Canada,2011,Peru,64,3,4
+Soma,Canada,2012,Haiti,70,3,3.25
+Soma,Canada,2012,Guatemala,70,3,3.5
+Soma,Canada,2012,Blend,70,3,3.5
+Soma,Canada,2012,Papua New Guinea,85,3,3.5
+Soma,Canada,2012,U.S.A.,70,3,3.75
+Soma,Canada,2012,Venezuela,70,3,3.75
+Soma,Canada,2012,Blend,70,3,4
+Soma,Canada,2012,Blend,70,3,4
+Soma,Canada,2013,Peru,70,3,2.75
+Soma,Canada,2013,Indonesia,70,3,3.25
+Soma,Canada,2013,Blend,70,3,3.25
+Soma,Canada,2013,Venezuela,70,3,3.25
+Soma,Canada,2013,Dominican Republic,77,3,3.75
+Soma,Canada,2013,Trinidad,70,3,3.75
+Soma,Canada,2013,Venezuela,70,3,3.75
+Soma,Canada,2013,Blend,88,3,4
+Soma,Canada,2013,Venezuela,70,3,4
+Soma,Canada,2013,Blend,67,3,4
+Soma,Canada,2013,Jamaica,70,3,4
+Soma,Canada,2014,Nicaragua,70,3,3.25
+Soma,Canada,2014,Blend,70,3,3.25
+Soma,Canada,2014,Nicaragua,70,3,3.5
+Soma,Canada,2014,Ecuador,80,3,3.5
+Soma,Canada,2014,Peru,70,3,3.75
+Soma,Canada,2014,Vanuatu,70,3,3.75
+Soma,Canada,2015,Venezuela,70,3,3.5
+Soma,Canada,2015,Venezuela,75,3,4
+Soma,Canada,2016,Ecuador,70,3,3.25
+Soma,Canada,2016,Dominican Republic,62,3,3.5
+Soma,Canada,2016,Madagascar,70,3,3.5
+Soma,Canada,2016,Brazil,70,3,3.5
+Soma,Canada,2016,Nicaragua,70,3,3.75
+Soma,Canada,2016,Blend,75,3,3.75
+Soma,Canada,2016,Vietnam,70,3,4
+Soma,Canada,2017,Fiji,70,3,3.25
+Soma,Canada,2017,Colombia,70,3,4
+Soma,Canada,2018,Haiti,70,3,3
+Soma,Canada,2018,Madagascar,70,3,4
+Soma,Canada,2018,Venezuela,70,3,4
+Soma,Canada,2021,Blend,62,4,3.25
+Soma,Canada,2021,Madagascar,70,3,3.5
+Soma,Canada,2021,Venezuela,70,3,3.5
+Soma,Canada,2021,Vietnam,70,3,4
+Somerville,U.S.A.,2014,Nicaragua,70,2,3.25
+Somerville,U.S.A.,2014,U.S.A.,70,2,3.5
+Soul,Canada,2017,Dominican Republic,70,2,3.25
+Soul,Canada,2017,Ecuador,75,2,3.25
+Soul,Canada,2017,Papua New Guinea,77,2,3.25
+Soul,Canada,2017,Madagascar,70,2,3.5
+Soul,Canada,2017,Venezuela,75,2,3.5
+Soul,Canada,2017,Tanzania,80,2,3.5
+Spagnvola,U.S.A.,2012,Dominican Republic,70,4,3
+Spagnvola,U.S.A.,2012,Dominican Republic,80,4,3
+Spagnvola,U.S.A.,2012,Dominican Republic,75,4,3.25
+Spencer,Australia,2014,Vanuatu,72,3,2.75
+Spencer,Australia,2016,Dominican Republic,70,3,3.5
+Spencer,Australia,2016,Ecuador,70,3,3.75
+Spencer,Australia,2016,Madagascar,70,3,3.75
+Spencer,U.S.A.,2017,Peru,70,3,2.75
+Spencer,U.S.A.,2017,Ecuador,70,3,3.5
+Spencer,U.S.A.,2017,Dominican Republic,70,3,3.75
+Spinnaker,U.S.A.,2021,Belize,70,2,3.25
+Spinnaker,U.S.A.,2021,Madagascar,70,2,3.5
+Spinnaker,U.S.A.,2021,Uganda,70,2,3.5
+Sprungli (Felchlin),Switzerland,2013,Bolivia,70,4,3
+SRSLY,U.S.A.,2013,Dominican Republic,84,3,2.25
+SRSLY,U.S.A.,2013,Dominican Republic,70,3,3
+Starchild,U.S.A.,2015,Ecuador,70,4,3
+Starchild,U.S.A.,2015,Dominican Republic,70,4,3
+Starchild,U.S.A.,2015,Guatemala,70,4,3
+Starchild,U.S.A.,2015,Nicaragua,70,4,3
+Starchild,U.S.A.,2015,Madagascar,70,4,3
+Stella (aka Bernrain),Switzerland,2011,India,72,4,3.25
+Stella (aka Bernrain),Switzerland,2012,Brazil,68,4,2.75
+Stone Grindz,U.S.A.,2014,Ecuador,84,3,3.5
+Stone Grindz,U.S.A.,2014,Ecuador,70,3,3.5
+Stone Grindz,U.S.A.,2017,Bolivia,70,3,2.5
+StRita Supreme,U.S.A.,2012,Philippines,65,4,2.5
+StRita Supreme,U.S.A.,2012,Philippines,70,4,2.5
+StRita Supreme,U.S.A.,2012,Philippines,75,4,2.75
+Sublime Origins,U.S.A.,2013,Madagascar,67,2,2.75
+Sublime Origins,U.S.A.,2013,Belize,78,2,3.25
+Summerbird,Denmark,2016,Peru,61,5,2.5
+Summerbird,Denmark,2016,Peru,71,5,3
+Suruca Chocolate,Venezuela,2016,Venezuela,70,3,2.75
+Suruca Chocolate,Venezuela,2016,Venezuela,60,3,3
+Svenska Kakaobolaget,Sweden,2015,Sri Lanka,70,2,2.75
+Svenska Kakaobolaget,Sweden,2019,Tanzania,74,2,2.75
+sweet beans,U.S.A.,2021,Honduras,72,3,3
+sweet beans,U.S.A.,2021,Peru,72,3,3
+sweet beans,U.S.A.,2021,Uganda,77,3,3.5
+sweet beans,U.S.A.,2021,Trinidad,80,3,3.75
+Sweet Escalier,Japan,2018,Peru,70,5,2.5
+Sweet Escalier,Japan,2018,Tanzania,75,3,2.75
+Sweet Escalier,Japan,2018,Belize,70,5,3
+Sweet Escalier,Japan,2018,Brazil,70,5,3
+Sweet Escalier,Japan,2018,Venezuela,75,5,3.25
+Sweetness,Canada,2020,Mexico,74,3,3
+Sweetness,Canada,2020,Peru,68,3,3.25
+Sweetness,Canada,2020,Papua New Guinea,73,3,3.25
+Szanto Tibor,Hungary,2011,Venezuela,70,3,3
+Szanto Tibor,Hungary,2012,Dominican Republic,70,3,3.25
+Szanto Tibor,Hungary,2012,Madagascar,70,3,3.25
+Szanto Tibor,Hungary,2012,Peru,70,3,3.75
+Szanto Tibor,Hungary,2013,Nicaragua,70,3,3.25
+Szanto Tibor,Hungary,2013,Madagascar,70,3,3.5
+Szanto Tibor,Hungary,2013,Madagascar,70,3,3.5
+Szanto Tibor,Hungary,2014,Venezuela,70,3,3.5
+Szanto Tibor,Hungary,2014,Cuba,70,3,3.75
+Szanto Tibor,Hungary,2015,Ecuador,70,3,3.25
+Szanto Tibor,Hungary,2015,Cuba,88,3,3.25
+Szanto Tibor,Hungary,2015,Madagascar,70,3,3.25
+Szanto Tibor,Hungary,2015,Vietnam,70,3,3.25
+Szanto Tibor,Hungary,2015,Brazil,70,3,3.5
+Szanto Tibor,Hungary,2015,Ecuador,70,3,3.75
+Tabal,U.S.A.,2013,Mexico,70,4,2.5
+Tabal,U.S.A.,2013,Costa Rica,70,4,2.75
+Tabal,U.S.A.,2013,Dominican Republic,70,4,2.75
+Tabal,U.S.A.,2013,Peru,70,4,3
+Tablette (aka Vanillabeans),Japan,2015,Trinidad,77,4,2.75
+Tablette (aka Vanillabeans),Japan,2015,Colombia,70,5,3
+Tablette (aka Vanillabeans),Japan,2015,Papua New Guinea,62,5,3.25
+Tablette (aka Vanillabeans),Japan,2015,Vietnam,60,5,3.25
+Tala,Vietnam,2019,Vietnam,70,3,2.75
+Tala,Vietnam,2019,Vietnam,75,3,3
+Tan Ban Skrati,Suriname,2016,Suriname,70,2,3.25
+Taste Artisan,U.S.A.,2019,Venezuela,75,4,3
+Taste Artisan,U.S.A.,2019,Peru,75,3,3.25
+Taste Artisan,U.S.A.,2019,Peru,75,3,4
+Taste Artisan aka Coleman and Davis,U.S.A.,2015,Madagascar,75,4,3
+Taucherli,Switzerland,2019,Nicaragua,72,3,3
+Taucherli,Switzerland,2019,Mexico,70,3,3.25
+Taylor Made,U.S.A.,2021,Haiti,67,3,2.75
+Taza,U.S.A.,2007,Dominican Republic,70,3,3
+Taza,U.S.A.,2009,Mexico,75,3,2.75
+Taza,U.S.A.,2011,Bolivia,87,3,3.25
+Taza,U.S.A.,2014,Belize,68,3,3
+TCHO,U.S.A.,2008,Ghana,70,5,2.5
+TCHO,U.S.A.,2008,Peru,70,5,2.5
+TCHO,U.S.A.,2008,Peru,70,5,2.5
+TCHO,U.S.A.,2008,Madagascar,70,5,2.75
+TCHO,U.S.A.,2009,Blend,60,5,2.75
+TCHO,U.S.A.,2009,Blend,68,5,3
+TCHO,U.S.A.,2012,Blend,99,NA,3.25
+TCHO,U.S.A.,2016,Blend,62,5,2
+Tejas,U.S.A.,2012,Peru,70,4,2
+Tejas,U.S.A.,2012,Madagascar,70,4,2.75
+Tejas,U.S.A.,2012,Bolivia,70,3,2.75
+Tejas,U.S.A.,2012,Brazil,70,3,2.75
+Tejas,U.S.A.,2012,Blend,70,4,3
+Tejas,U.S.A.,2012,Papua New Guinea,70,4,3
+Tejas,U.S.A.,2012,Madagascar,70,3,3
+Tejas,U.S.A.,2012,Venezuela,80,4,3
+Tejas,U.S.A.,2012,Ecuador,70,4,3.25
+Tejas,U.S.A.,2012,Ecuador,70,3,3.25
+Tejas,U.S.A.,2012,Mexico,70,3,3.25
+Tejas,U.S.A.,2012,Bolivia,67,3,3.25
+Tejas,U.S.A.,2012,Dominican Republic,70,4,3.5
+Tejas,U.S.A.,2012,Brazil,70,3,3.5
+Terroir,U.S.A.,2014,Ecuador,77,2,3.25
+Terroir,U.S.A.,2014,Madagascar,67,2,3.75
+Terroir,U.S.A.,2014,Uganda,73,2,3.75
+Terroir,U.S.A.,2015,Peru,70,2,2.75
+Terroir,U.S.A.,2015,Ecuador,70,2,3.25
+Terroir,U.S.A.,2015,Dominican Republic,70,3,3.5
+Terroir,U.S.A.,2015,Belize,70,2,3.75
+Terroir,U.S.A.,2015,Madagascar,70,2,3.75
+Terroir,U.S.A.,2015,Guatemala,70,3,3.75
+Terroir,U.S.A.,2019,Haiti,72,3,2.75
+Terroir,U.S.A.,2019,Belize,77,3,3
+Terroir,U.S.A.,2019,Bolivia,77,3,3.25
+The Barn,Sweden,2015,Peru,70,3,3
+Theo,U.S.A.,2007,Venezuela,91,2,2
+Theo,U.S.A.,2007,Ivory Coast,75,4,2.5
+Theo,U.S.A.,2007,Ghana,84,4,3
+Theo,U.S.A.,2007,Blend,75,3,3
+Theo,U.S.A.,2007,Madagascar,65,3,3.5
+Theo,U.S.A.,2012,Congo,65,4,3.25
+Theobroma,Japan,2015,Peru,70,2,3.25
+Thistle & Rose aka Aggie USU,U.S.A.,2019,Ecuador,70,2,3.5
+Tibito,Colombia,2018,Colombia,70,3,3
+Tibito,Colombia,2018,Colombia,70,3,3.25
+Timo A. Meyer,Germany,2016,Belize,72,3,3.75
+Tiny House,U.S.A.,2019,Tanzania,71,2,2.75
+To'ak,Ecuador,2020,Ecuador,75,3,3.25
+To'ak (Ecuatoriana),Ecuador,2014,Ecuador,81,2,3.25
+Tobago Estate (Pralus),France,2012,Tobago,70,NA,4
+Tocoti,U.S.A.,2011,Venezuela,72,3,2.75
+Tocoti,U.S.A.,2011,Dominican Republic,74,3,3
+Tocoti,U.S.A.,2012,Bolivia,77,3,3
+Tosier,U.K.,2018,Haiti,70,3,2.75
+Tosier,U.K.,2018,Bolivia,70,3,3
+Tosier,U.K.,2018,Belize,70,3,3.5
+Tosier,U.K.,2019,Colombia,70,3,2.75
+Tree to Bar,South Korea,2019,Ecuador,70,2,3.5
+Treehouse,U.S.A.,2014,Dominican Republic,72,2,3
+Treehouse aka Indaphoria,U.S.A.,2012,Dominican Republic,70,3,2.75
+Treehouse aka Indaphoria,U.S.A.,2012,Dominican Republic,70,3,3.25
+Triangle Roasters,U.S.A.,2020,Nicaragua,70,2,3.25
+Triangle Roasters,U.S.A.,2020,Haiti,70,2,3.25
+Triangle Roasters,U.S.A.,2020,Guatemala,70,2,3.75
+Triangle Roasters,U.S.A.,2021,Philippines,70,2,3.25
+Tribar,Peru,2018,Peru,73,3,3
+Tribar,Peru,2018,Peru,70,3,3.5
+Tribe,Canada,2020,Vietnam,70,2,2.75
+Tribe,Canada,2020,Honduras,70,2,2.75
+Tribe,Canada,2020,Peru,70,2,3
+Tsara (Cinagra),Madagascar,2011,Madagascar,72,NA,3.5
+twenty-four blackbirds,U.S.A.,2011,Dominican Republic,73,2,2.75
+twenty-four blackbirds,U.S.A.,2013,Bolivia,75,2,2.5
+twenty-four blackbirds,U.S.A.,2013,Dominican Republic,68,2,3.25
+twenty-four blackbirds,U.S.A.,2014,Madagascar,75,2,3.5
+twenty-four blackbirds,U.S.A.,2015,Dominican Republic,75,2,2.75
+twenty-four blackbirds,U.S.A.,2015,Ecuador,75,2,3.5
+twenty-four blackbirds,U.S.A.,2017,Tanzania,75,2,3.25
+Two Ravens,U.S.A.,2016,Peru,60,3,3
+Un Dimanche A Paris,France,2011,Dominican Republic,63,NA,3.75
+Uncouth,Canada,2017,Dominican Republic,75,2,2.75
+Uncouth,Canada,2017,Tanzania,75,2,3
+Uncouth,Canada,2017,Guatemala,75,2,3.25
+Undone,U.S.A.,2014,Nicaragua,74,2,2.75
+Undone,U.S.A.,2014,Dominican Republic,70,2,3
+Upchurch,U.S.A.,2016,Madagascar,72,2,3
+Upchurch,U.S.A.,2016,Tanzania,72,2,3.25
+Urzi,Italy,2014,Venezuela,65,4,3.25
+Utopick,Spain,2017,Colombia,70,3,3.75
+Utopick,Spain,2018,Nicaragua,70,3,3.75
+Vaka,Canada,2020,Belize,74,3,3.5
+Valrhona,France,2006,Trinidad,64,5,2.5
+Valrhona,France,2006,Blend,66,5,3
+Valrhona,France,2006,Venezuela,64,5,3
+Valrhona,France,2006,Madagascar,64,5,3.5
+Valrhona,France,2006,Blend,70,5,3.75
+Valrhona,France,2007,Blend,85,5,1.5
+Valrhona,France,2007,Blend,85,5,2.5
+Valrhona,France,2007,Blend,71,5,2.75
+Valrhona,France,2007,Blend,72,5,3
+Valrhona,France,2007,Venezuela,64,5,3.25
+Valrhona,France,2007,Venezuela,65,5,3.75
+Valrhona,France,2007,Madagascar,64,5,4
+Valrhona,France,2009,Ghana,68,5,3.5
+Valrhona,France,2009,Dominican Republic,64,5,3.75
+Valrhona,France,2009,Ecuador,66,5,3.75
+Valrhona,France,2011,Blend,56,5,3.25
+Valrhona,France,2011,Venezuela,64,5,4
+Valrhona,France,2012,Venezuela,69,5,4
+Valrhona,France,2013,Blend,70,5,3.5
+Valrhona,France,2013,Dominican Republic,64,5,3.5
+Valrhona,France,2015,Peru,63,5,4
+Valrhona,France,2017,Blend,60,3,3.25
+Vanleer (Barry Callebaut),U.S.A.,2012,Ghana,72,NA,2.5
+Vanleer (Barry Callebaut),U.S.A.,2012,Ghana,65,NA,2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,72,3,2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,76,4,2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,80,4,2.75
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,70,NA,3
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,68,NA,3
+Vao Vao (Chocolaterie Robert),Madagascar,2009,Madagascar,64,NA,3.25
+Vicuna,U.S.A.,2015,Bolivia,70,2,3.25
+Vicuna,U.S.A.,2015,Bolivia,70,2,3.25
+Vicuna,U.S.A.,2018,Bolivia,70,2,2.75
+Vicuna,U.S.A.,2018,Guatemala,70,2,3
+Vicuna,U.S.A.,2018,Dominican Republic,70,2,3.25
+Videri,U.S.A.,2012,Blend,70,3,3.25
+Videri,U.S.A.,2013,Blend,90,3,3.75
+Videri,U.S.A.,2014,Dominican Republic,90,3,3.25
+Videri,U.S.A.,2014,Trinidad,75,3,3.5
+Videri,U.S.A.,2014,Ecuador,75,3,3.5
+Videri,U.S.A.,2021,Guatemala,75,2,2.75
+Videri,U.S.A.,2021,Dominican Republic,75,2,3
+Videri,U.S.A.,2021,Blend,70,3,3.5
+Videri,U.S.A.,2021,Ecuador,75,2,3.5
+Vietcacao (A. Morin),France,2012,Vietnam,70,4,3.5
+Vintage Plantations,U.S.A.,2014,Peru,75,3,3
+Vintage Plantations (Tulicorp),U.S.A.,2007,Ecuador,100,NA,2
+Vintage Plantations (Tulicorp),U.S.A.,2007,Ecuador,90,NA,2
+Vintage Plantations (Tulicorp),U.S.A.,2007,Ecuador,75,NA,3
+Vintage Plantations (Tulicorp),U.S.A.,2007,Ecuador,65,3,3
+Violet Sky,U.S.A.,2015,Madagascar,77,2,2.75
+Violet Sky,U.S.A.,2015,Guatemala,77,2,2.75
+Violet Sky,U.S.A.,2015,Belize,77,2,3
+Violet Sky,U.S.A.,2015,Venezuela,77,2,3
+Violet Sky,U.S.A.,2015,Peru,77,2,3.25
+Vivra,U.S.A.,2016,Peru,70,5,2.5
+Vivra,U.S.A.,2016,Venezuela,70,5,2.5
+Vivra,U.S.A.,2016,Dominican Republic,70,5,3
+Vivra,U.S.A.,2018,Bolivia,70,5,2.5
+Vivra,U.S.A.,2018,Haiti,70,5,2.5
+Wellington Chocolate Factory,New Zealand,2016,Dominican Republic,70,2,3.5
+Wellington Chocolate Factory,New Zealand,2016,Peru,70,2,3.5
+Wellington Chocolate Factory,New Zealand,2017,Samoa,77,2,3
+White Label aka Mutari,U.S.A.,2018,Tanzania,68,3,3
+White Label aka Mutari,U.S.A.,2018,Bolivia,72,3,3
+White Label aka Mutari,U.S.A.,2021,Philippines,74,3,3.5
+White Label aka Mutari,U.S.A.,2021,Uganda,72,3,3.5
+White Label aka Mutari,U.S.A.,2021,Honduras,74,2,3.75
+White Label aka Mutari,U.S.A.,2021,Trinidad,72,3,3.75
+Whittakers,New Zealand,2011,Ghana,72,NA,2.5
+Wilkie's Organic,Ireland,2013,Peru,75,3,2.5
+Wilkie's Organic,Ireland,2013,Peru,89,3,2.75
+Wilkie's Organic,Ireland,2013,Peru,75,3,2.75
+Wilkie's Organic,Ireland,2013,Peru,75,3,3.25
+Willie's Cacao,U.K.,2009,Peru,70,3,3
+Willie's Cacao,U.K.,2009,Venezuela,72,3,3.25
+Willie's Cacao,U.K.,2010,Madagascar,71,3,3
+Willie's Cacao,U.K.,2010,Venezuela,72,3,3.5
+Willie's Cacao,U.K.,2010,Indonesia,69,3,3.75
+Willie's Cacao,U.K.,2013,Indonesia,100,NA,2.25
+Willie's Cacao,U.K.,2014,Colombia,88,3,3
+Willie's Cacao,U.K.,2016,Colombia,70,3,4
+Wm,U.S.A.,2016,Venezuela,74,3,3
+Wm,U.S.A.,2016,Bolivia,76,3,3.5
+Wm,U.S.A.,2016,Ghana,75,3,3.75
+Wm,U.S.A.,2019,Belize,68,3,3.25
+Wm,U.S.A.,2019,Venezuela,70,3,3.5
+Wm,U.S.A.,2021,Dominican Republic,70,3,3.5
+Woodblock,U.S.A.,2011,Dominican Republic,70,2,3.5
+Woodblock,U.S.A.,2011,Venezuela,70,2,4
+Woodblock,U.S.A.,2012,Ecuador,70,2,2.5
+Woodblock,U.S.A.,2012,Costa Rica,70,2,3
+Woodblock,U.S.A.,2012,Madagascar,70,3,3.25
+Woodblock,U.S.A.,2013,Ecuador,70,2,3.25
+Woodblock,U.S.A.,2013,Trinidad,70,2,3.5
+Woodblock,U.S.A.,2014,Peru,70,2,3
+Woodblock,U.S.A.,2021,Tanzania,70,2,3
+Xocolat,Dominican Republic,2013,Dominican Republic,66,5,3
+Xocolatisimo,El Salvador,2019,El Salvador,65,4,2.75
+Xocolatisimo,El Salvador,2019,El Salvador,75,4,3
+Xocolatisimo,El Salvador,2019,El Salvador,70,4,3.25
+Xocolatl,U.S.A.,2020,Tanzania,73,2,3.25
+Xocolatl,U.S.A.,2020,Peru,70,2,3.5
+Xocolatl,U.S.A.,2020,Nicaragua,72,2,3.5
+Xocolla,U.S.A.,2017,Dominican Republic,70,2,2.5
+Xocolla,U.S.A.,2017,Madagascar,70,2,2.75
+Zac Squared,U.S.A.,2021,Trinidad,70,3,3.25
+Zac Squared,U.S.A.,2021,Vietnam,70,3,3.5
+Zac Squared,U.S.A.,2021,Dominican Republic,70,3,3.5
+Zacharias,U.S.A.,2021,Bolivia,70,3,3
+Zak's,U.S.A.,2015,Papua New Guinea,70,3,3
+Zak's,U.S.A.,2015,Blend,60,3,3
+Zak's,U.S.A.,2015,Dominican Republic,70,3,3.25
+Zak's,U.S.A.,2015,Madagascar,70,3,3.25
+Zak's,U.S.A.,2015,Peru,70,3,3.25
+Zak's,U.S.A.,2015,Belize,70,3,3.5
+Zart Pralinen,Austria,2016,Ecuador,70,3,2.75
+Zart Pralinen,Austria,2016,Trinidad,85,3,2.75
+Zart Pralinen,Austria,2016,Tanzania,85,3,3
+Zart Pralinen,Austria,2016,Madagascar,70,3,3.5
+Zart Pralinen,Austria,2016,Tanzania,70,3,3.5
+Zart Pralinen,Austria,2016,Trinidad,78,2,3.5
+Zokoko,Australia,2011,Bolivia,68,4,3.5
+Zokoko,Australia,2011,Papua New Guinea,66,4,3.5
+Zokoko,Australia,2011,Bolivia,72,4,3.75
+Zokoko,Australia,2016,Blend,65,5,3.25
+Zokoko,Australia,2016,Solomon Islands,78,4,3.75
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,72,3,3
+Zoto (Chocolatoa),Belgium,2018,DR Congo,68,3,3
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,75,3,3.25
+Zoto (Chocolatoa),Belgium,2018,Nicaragua,70,3,3.75
+Zotter,Austria,2010,Brazil,65,4,3
+Zotter,Austria,2011,Congo,65,4,3
+Zotter,Austria,2011,India,62,4,3.25
+Zotter,Austria,2011,India,65,4,3.5
+Zotter,Austria,2011,Peru,70,4,3.75
+Zotter,Austria,2012,Peru,70,4,3
+Zotter,Austria,2012,Ecuador,75,4,3
+Zotter,Austria,2012,Papua New Guinea,75,4,3
+Zotter,Austria,2012,Bolivia,90,4,3.25
+Zotter,Austria,2012,Congo,68,4,3.25
+Zotter,Austria,2012,Panama,72,4,3.5
+Zotter,Austria,2012,Blend,65,4,3.5
+Zotter,Austria,2012,Peru,70,4,3.5
+Zotter,Austria,2012,Blend,58,4,3.5
+Zotter,Austria,2012,Dominican Republic,62,4,3.75
+Zotter,Austria,2012,Dominican Republic,70,4,3.75
+Zotter,Austria,2014,Blend,80,4,2.75
+Zotter,Austria,2017,Colombia,75,3,3.75
+Zotter,Austria,2018,Blend,75,3,3
+Zotter,Austria,2018,Congo,70,3,3.25
+Zotter,Austria,2018,Belize,72,3,3.5
